@@ -1,0 +1,19 @@
+test,section,model,median_spearman
+LOSO (cross-section),BC_515_Section_1,H&E-only,0.2476
+LOSO (cross-section),BC_515_Section_2,H&E-only,0.2006
+LOSO (cross-section),BC_823,H&E-only,0.1333
+LOSO (cross-section),LC_091,H&E-only,0.0597
+LOSO (cross-section),LC_170,H&E-only,0.1015
+LOSO (cross-section),LC_276,H&E-only,0.0898
+shuffle control (H&E-only),BC_515_Section_1,H&E-only(shuffled),-0.0087
+shuffle control (H&E-only),BC_515_Section_2,H&E-only(shuffled),-0.0069
+shuffle control (H&E-only),BC_823,H&E-only(shuffled),-0.0052
+shuffle control (H&E-only),LC_091,H&E-only(shuffled),-0.0082
+shuffle control (H&E-only),LC_170,H&E-only(shuffled),-0.0045
+shuffle control (H&E-only),LC_276,H&E-only(shuffled),-0.0039
+within-sample 5-fold,BC_515_Section_1,H&E-only,0.2252
+within-sample 5-fold,BC_515_Section_2,H&E-only,0.2217
+within-sample 5-fold,BC_823,H&E-only,0.2374
+within-sample 5-fold,LC_091,H&E-only,0.0988
+within-sample 5-fold,LC_170,H&E-only,0.2757
+within-sample 5-fold,LC_276,H&E-only,0.1456

@@ -1,0 +1,408 @@
+{
+ "BC_515_Section_1": {
+  "scores": {
+   "MetaboCast": 0.39483433961868286,
+   "MetaboCast + KEGG": 0.39005187153816223,
+   "MetaboCast (ridge only)": 0.38595670461654663,
+   "KEGG pathway features + supervised regressor": 0.3189827501773834,
+   "no diffusion": 0.35798272490501404,
+   "joint-NMF": 0.28182271122932434,
+   "single-gene OLS": 0.05002063512802124
+  },
+  "n_spots": 3508,
+  "n_detected": 2069,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    100000.0,
+    100000.0,
+    30000.0,
+    100000.0,
+    100000.0
+   ],
+   "no diffusion": [
+    3000.0,
+    3000.0,
+    3000.0,
+    10000.0,
+    3000.0
+   ],
+   "MetaboCast + KEGG": [
+    100000.0,
+    100000.0,
+    30000.0,
+    100000.0,
+    100000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    300.0,
+    1000.0,
+    300.0,
+    1000.0,
+    300.0
+   ]
+  },
+  "full_median": 0.1356479525566101,
+  "full_mean": 0.2279958873987198,
+  "full_frac_gt_0_3": 0.3180280328661189,
+  "full_frac_gt_0_5": 0.17641372643789272,
+  "coverage90": 0.8695972417943547,
+  "scores_target_scale": {
+   "MetaboCast": 0.43808332085609436,
+   "MetaboCast + KEGG": 0.43671756982803345,
+   "MetaboCast (ridge only)": 0.43325111269950867,
+   "KEGG pathway features + supervised regressor": 0.38054385781288147,
+   "no diffusion": 0.4123331606388092,
+   "joint-NMF": 0.28168267011642456,
+   "single-gene OLS": 0.18570151925086975
+  }
+ },
+ "BC_515_Section_2": {
+  "scores": {
+   "MetaboCast": 0.32677558064460754,
+   "MetaboCast + KEGG": 0.38042116165161133,
+   "MetaboCast (ridge only)": 0.280869722366333,
+   "KEGG pathway features + supervised regressor": 0.39713436365127563,
+   "no diffusion": 0.3176078498363495,
+   "joint-NMF": 0.270216703414917,
+   "single-gene OLS": 0.0527772419154644
+  },
+  "n_spots": 1926,
+  "n_detected": 2061,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    100000.0,
+    100000.0,
+    100000.0,
+    30000.0,
+    100000.0
+   ],
+   "no diffusion": [
+    300.0,
+    3000.0,
+    1000.0,
+    300.0,
+    3000.0
+   ],
+   "MetaboCast + KEGG": [
+    100000.0,
+    100000.0,
+    100000.0,
+    30000.0,
+    100000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    300.0,
+    300.0,
+    300.0,
+    300.0,
+    300.0
+   ]
+  },
+  "full_median": 0.12227802723646164,
+  "full_mean": 0.19671964645385742,
+  "full_frac_gt_0_3": 0.29354682193110143,
+  "full_frac_gt_0_5": 0.1324599708879185,
+  "coverage90": 0.8579440763867161,
+  "scores_target_scale": {
+   "MetaboCast": 0.39826834201812744,
+   "MetaboCast + KEGG": 0.43121337890625,
+   "MetaboCast (ridge only)": 0.3441145420074463,
+   "KEGG pathway features + supervised regressor": 0.4340626895427704,
+   "no diffusion": 0.38812509179115295,
+   "joint-NMF": 0.26899808645248413,
+   "single-gene OLS": 0.13779976963996887
+  }
+ },
+ "BC_525": {
+  "scores": {
+   "MetaboCast": 0.4192437529563904,
+   "MetaboCast + KEGG": 0.4156920313835144,
+   "MetaboCast (ridge only)": 0.39391595125198364,
+   "KEGG pathway features + supervised regressor": 0.3468095660209656,
+   "no diffusion": 0.3571966290473938,
+   "joint-NMF": 0.29382237792015076,
+   "single-gene OLS": -0.0746961385011673
+  },
+  "n_spots": 3270,
+  "n_detected": 2061,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    100000.0,
+    100000.0,
+    100000.0,
+    100000.0,
+    100000.0
+   ],
+   "no diffusion": [
+    1000.0,
+    3000.0,
+    3000.0,
+    3000.0,
+    3000.0
+   ],
+   "MetaboCast + KEGG": [
+    100000.0,
+    100000.0,
+    100000.0,
+    100000.0,
+    100000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    100.0,
+    300.0,
+    300.0,
+    100.0,
+    100.0
+   ]
+  },
+  "full_median": 0.15763720870018005,
+  "full_mean": 0.23824705183506012,
+  "full_frac_gt_0_3": 0.33381853469189715,
+  "full_frac_gt_0_5": 0.18534691897137312,
+  "coverage90": 0.8597592985798587,
+  "scores_target_scale": {
+   "MetaboCast": 0.47595328092575073,
+   "MetaboCast + KEGG": 0.4760696291923523,
+   "MetaboCast (ridge only)": 0.4532049298286438,
+   "KEGG pathway features + supervised regressor": 0.41723930835723877,
+   "no diffusion": 0.4376300573348999,
+   "joint-NMF": 0.30492427945137024,
+   "single-gene OLS": 0.07326240837574005
+  }
+ },
+ "BC_823": {
+  "scores": {
+   "MetaboCast": 0.2916311025619507,
+   "MetaboCast + KEGG": 0.29301539063453674,
+   "MetaboCast (ridge only)": 0.2902253270149231,
+   "KEGG pathway features + supervised regressor": 0.14302754402160645,
+   "no diffusion": 0.2177492082118988,
+   "joint-NMF": 0.23516714572906494,
+   "single-gene OLS": 0.07007608562707901
+  },
+  "n_spots": 1076,
+  "n_detected": 2044,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    10000.0,
+    10000.0,
+    10000.0,
+    30000.0,
+    10000.0
+   ],
+   "no diffusion": [
+    1000.0,
+    1.0,
+    300.0,
+    1000.0,
+    300.0
+   ],
+   "MetaboCast + KEGG": [
+    10000.0,
+    10000.0,
+    10000.0,
+    30000.0,
+    10000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    10.0,
+    1.0,
+    1.0,
+    10.0,
+    10.0
+   ]
+  },
+  "full_median": 0.08571821451187134,
+  "full_mean": 0.15794192254543304,
+  "full_frac_gt_0_3": 0.24412915851272016,
+  "full_frac_gt_0_5": 0.09980430528375733,
+  "coverage90": 0.8688749918157413,
+  "scores_target_scale": {
+   "MetaboCast": 0.3397819399833679,
+   "MetaboCast + KEGG": 0.3436564803123474,
+   "MetaboCast (ridge only)": 0.32642030715942383,
+   "KEGG pathway features + supervised regressor": 0.21305252611637115,
+   "no diffusion": 0.2922627329826355,
+   "joint-NMF": 0.23728516697883606,
+   "single-gene OLS": 0.13715383410453796
+  }
+ },
+ "LC_091": {
+  "scores": {
+   "MetaboCast": 0.27147048711776733,
+   "MetaboCast + KEGG": 0.2700897455215454,
+   "MetaboCast (ridge only)": 0.24836879968643188,
+   "KEGG pathway features + supervised regressor": 0.1840827316045761,
+   "no diffusion": 0.2260960340499878,
+   "joint-NMF": 0.13987970352172852,
+   "single-gene OLS": 0.0945829302072525
+  },
+  "n_spots": 2141,
+  "n_detected": 2037,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    100000.0,
+    30000.0,
+    30000.0,
+    100000.0,
+    30000.0
+   ],
+   "no diffusion": [
+    3000.0,
+    3000.0,
+    3000.0,
+    3000.0,
+    1000.0
+   ],
+   "MetaboCast + KEGG": [
+    100000.0,
+    30000.0,
+    30000.0,
+    100000.0,
+    30000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  "full_median": 0.07326847314834595,
+  "full_mean": 0.16750186681747437,
+  "full_frac_gt_0_3": 0.23956799214531174,
+  "full_frac_gt_0_5": 0.11978399607265587,
+  "coverage90": 0.874090420174002,
+  "scores_target_scale": {
+   "MetaboCast": 0.3011249899864197,
+   "MetaboCast + KEGG": 0.3001565933227539,
+   "MetaboCast (ridge only)": 0.2754255533218384,
+   "KEGG pathway features + supervised regressor": 0.2430538833141327,
+   "no diffusion": 0.2585107088088989,
+   "joint-NMF": 0.14015448093414307,
+   "single-gene OLS": 0.155846506357193
+  }
+ },
+ "LC_170": {
+  "scores": {
+   "MetaboCast": 0.4260900616645813,
+   "MetaboCast + KEGG": 0.4447794556617737,
+   "MetaboCast (ridge only)": 0.4063825011253357,
+   "KEGG pathway features + supervised regressor": 0.38622623682022095,
+   "no diffusion": 0.38179826736450195,
+   "joint-NMF": 0.33121058344841003,
+   "single-gene OLS": 0.08508691191673279
+  },
+  "n_spots": 1027,
+  "n_detected": 2055,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    30000.0,
+    30000.0,
+    30000.0,
+    30000.0,
+    30000.0
+   ],
+   "no diffusion": [
+    1000.0,
+    1000.0,
+    3000.0,
+    1000.0,
+    1000.0
+   ],
+   "MetaboCast + KEGG": [
+    30000.0,
+    30000.0,
+    30000.0,
+    30000.0,
+    30000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    100.0,
+    100.0,
+    100.0,
+    100.0,
+    100.0
+   ]
+  },
+  "full_median": 0.1251455545425415,
+  "full_mean": 0.21762508153915405,
+  "full_frac_gt_0_3": 0.3172749391727494,
+  "full_frac_gt_0_5": 0.20097323600973235,
+  "coverage90": 0.8676977092943091,
+  "scores_target_scale": {
+   "MetaboCast": 0.4653601050376892,
+   "MetaboCast + KEGG": 0.4833276569843292,
+   "MetaboCast (ridge only)": 0.4367496967315674,
+   "KEGG pathway features + supervised regressor": 0.4282678961753845,
+   "no diffusion": 0.4315122961997986,
+   "joint-NMF": 0.3315105438232422,
+   "single-gene OLS": 0.15446695685386658
+  }
+ },
+ "LC_276": {
+  "scores": {
+   "MetaboCast": 0.22661516070365906,
+   "MetaboCast + KEGG": 0.23152348399162292,
+   "MetaboCast (ridge only)": 0.22297880053520203,
+   "KEGG pathway features + supervised regressor": 0.11066994071006775,
+   "no diffusion": 0.1794740855693817,
+   "joint-NMF": 0.18418622016906738,
+   "single-gene OLS": 0.0763227641582489
+  },
+  "n_spots": 1868,
+  "n_detected": 2054,
+  "n_panel": 1000,
+  "alpha_per_fold": {
+   "MetaboCast": [
+    10000.0,
+    10000.0,
+    10000.0,
+    30000.0,
+    10000.0
+   ],
+   "no diffusion": [
+    0.1,
+    10.0,
+    300.0,
+    0.1,
+    0.1
+   ],
+   "MetaboCast + KEGG": [
+    10000.0,
+    10000.0,
+    10000.0,
+    30000.0,
+    10000.0
+   ],
+   "KEGG pathway features + supervised regressor": [
+    0.1,
+    0.1,
+    10.0,
+    0.1,
+    0.1
+   ]
+  },
+  "full_median": 0.08720183372497559,
+  "full_mean": 0.14179584383964539,
+  "full_frac_gt_0_3": 0.18889970788704966,
+  "full_frac_gt_0_5": 0.06085686465433301,
+  "coverage90": 0.8639217049721752,
+  "scores_target_scale": {
+   "MetaboCast": 0.2969352900981903,
+   "MetaboCast + KEGG": 0.29982924461364746,
+   "MetaboCast (ridge only)": 0.2854117751121521,
+   "KEGG pathway features + supervised regressor": 0.21072858572006226,
+   "no diffusion": 0.27218127250671387,
+   "joint-NMF": 0.18471083045005798,
+   "single-gene OLS": 0.1696668267250061
+  }
+ }
+}

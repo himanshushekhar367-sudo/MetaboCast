@@ -1,0 +1,35 @@
+{
+ "machine": {
+  "cpu": "Intel(R) Xeon(R) Processor @ 2.10GHz",
+  "logical_cores": 2,
+  "ram_gb": 7.8,
+  "os": "Linux-6.18.44-fc-v153-x86_64-with-glibc2.39",
+  "python": "3.11.17",
+  "numpy": "2.4.4",
+  "scipy": "1.17.1",
+  "sklearn": "1.8.0",
+  "anndata": "0.12.19",
+  "threads": 1
+ },
+ "fit_one_section": {
+  "section": "BC_515_Section_1",
+  "n_spots": 3508,
+  "n_ions": 2086,
+  "seconds": 10.6,
+  "alpha": 100000.0,
+  "peak_gb": 1.68
+ },
+ "fit_seven": {
+  "n_spots": 14816,
+  "seconds": 52.8,
+  "alpha": 10000000.0,
+  "peak_gb": 2.24
+ },
+ "predict_query": {
+  "query": "HCC-2 PVTT and tumour sections",
+  "n_spots": 9356,
+  "n_ions": 2086,
+  "seconds": 2.7,
+  "peak_gb": 3.24
+ }
+}

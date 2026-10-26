@@ -1,0 +1,54 @@
+{
+ "per_section": {
+  "BC_515_Section_1": {
+   "median": 0.10132277756929398,
+   "n_detected": 2069,
+   "alpha": 10000000.0,
+   "alpha_selection": "leave-one-section-out"
+  },
+  "BC_515_Section_2": {
+   "median": 0.0915062353014946,
+   "n_detected": 2061,
+   "alpha": 10000000.0,
+   "alpha_selection": "leave-one-section-out"
+  },
+  "BC_525": {
+   "median": 0.08866603672504425,
+   "n_detected": 2061,
+   "alpha": 10000000.0,
+   "alpha_selection": "leave-one-section-out"
+  },
+  "BC_823": {
+   "median": 0.04561298340559006,
+   "n_detected": 2044,
+   "alpha": 10000000.0,
+   "alpha_selection": "leave-one-section-out"
+  },
+  "LC_091": {
+   "median": 0.029024166986346245,
+   "n_detected": 2037,
+   "alpha": 3000000.0,
+   "alpha_selection": "leave-one-section-out"
+  },
+  "LC_170": {
+   "median": 0.016527265310287476,
+   "n_detected": 2055,
+   "alpha": 1000000.0,
+   "alpha_selection": "leave-one-section-out"
+  },
+  "LC_276": {
+   "median": 0.02573331445455551,
+   "n_detected": 2054,
+   "alpha": 3000000.0,
+   "alpha_selection": "leave-one-section-out"
+  }
+ },
+ "mean": 0.056913254250373156,
+ "sd": 0.033135723821506986,
+ "config": {
+  "n_hvg": 3000,
+  "use_kegg": true,
+  "estimator": "ensemble",
+  "upper_genes": false
+ }
+}

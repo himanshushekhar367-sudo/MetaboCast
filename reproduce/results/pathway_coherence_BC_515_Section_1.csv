@@ -1,0 +1,85 @@
+pathway,n_genes,n_metabolites,enzyme_metabolite_coherence,metabolite_supported
+Glutathione metabolism,43,1,0.5062764496344455,True
+Citrate cycle (TCA cycle),27,7,0.3809907184057661,True
+Biosynthesis of unsaturated fatty acids,21,9,0.37707582995473676,True
+alpha-Linolenic acid metabolism,21,2,0.36292050548215116,True
+Arachidonic acid metabolism,47,2,0.3277660371611835,True
+Purine metabolism,154,9,0.30995176562418336,True
+"Alanine, aspartate and glutamate metabolism",30,5,0.27432514910011857,True
+Fatty acid degradation,40,4,0.2640320676481936,True
+Ascorbate and aldarate metabolism,9,1,0.22721549195071747,True
+Arginine and proline metabolism,41,2,0.20798452500421233,True
+Linoleic acid metabolism,21,3,0.17665115429081127,True
+Tryptophan metabolism,36,2,0.1690084683947998,True
+"Glycine, serine and threonine metabolism",31,2,0.10100410297795563,True
+Pyruvate metabolism,35,4,0.08622786650267142,True
+Sphingolipid metabolism,43,1,0.0753134417918322,True
+Pentose phosphate pathway,25,1,0.07405833974506414,True
+Fatty acid elongation,27,1,0.05755726253065086,True
+Taurine and hypotaurine metabolism,9,2,0.022397410945997318,True
+Fatty acid biosynthesis,13,2,-0.011029785440707117,True
+Galactose metabolism,28,3,-0.3416898457401929,True
+Glycolysis / Gluconeogenesis,51,5,-0.3481701048678508,True
+Fructose and mannose metabolism,28,3,-0.4386527614771812,True
+Pentose and glucuronate interconversions,15,0,,False
+Starch and sucrose metabolism,28,0,,False
+Amino sugar and nucleotide sugar metabolism,46,0,,False
+Glyoxylate and dicarboxylate metabolism,22,0,,False
+Propanoate metabolism,28,0,,False
+Butanoate metabolism,23,0,,False
+Inositol phosphate metabolism,70,0,,False
+Oxidative phosphorylation,111,0,,False
+Nitrogen metabolism,12,0,,False
+Sulfur metabolism,9,0,,False
+Synthesis and degradation of ketone bodies,10,0,,False
+Steroid biosynthesis,17,0,,False
+Primary bile acid biosynthesis,12,0,,False
+Steroid hormone biosynthesis,26,0,,False
+Glycerolipid metabolism,54,0,,False
+Glycerophospholipid metabolism,89,0,,False
+Ether lipid metabolism,43,0,,False
+Pyrimidine metabolism,92,0,,False
+Cysteine and methionine metabolism,39,0,,False
+"Valine, leucine and isoleucine degradation",46,0,,False
+"Valine, leucine and isoleucine biosynthesis",4,0,,False
+Lysine degradation,56,0,,False
+Arginine biosynthesis,16,0,,False
+Histidine metabolism,23,0,,False
+Tyrosine metabolism,28,0,,False
+Phenylalanine metabolism,15,0,,False
+"Phenylalanine, tyrosine and tryptophan biosynthesis",5,0,,False
+beta-Alanine metabolism,30,0,,False
+Phosphonate and phosphinate metabolism,6,0,,False
+Selenocompound metabolism,17,0,,False
+D-Glutamine and D-glutamate metabolism,4,0,,False
+N-Glycan biosynthesis,45,0,,False
+Mucin type O-glycan biosynthesis,28,0,,False
+Mannose type O-glycan biosynthesis,21,0,,False
+Other types of O-glycan biosynthesis,22,0,,False
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,20,0,,False
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,23,0,,False
+Glycosaminoglycan biosynthesis - keratan sulfate,14,0,,False
+Glycosaminoglycan degradation,18,0,,False
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,24,0,,False
+Glycosphingolipid biosynthesis - lacto and neolacto series,26,0,,False
+Glycosphingolipid biosynthesis - globo and isoglobo series,14,0,,False
+Glycosphingolipid biosynthesis - ganglio series,15,0,,False
+Other glycan degradation,15,0,,False
+Thiamine metabolism,10,0,,False
+Riboflavin metabolism,8,0,,False
+Vitamin B6 metabolism,6,0,,False
+Nicotinate and nicotinamide metabolism,24,0,,False
+Pantothenate and CoA biosynthesis,19,0,,False
+Biotin metabolism,3,0,,False
+Lipoic acid metabolism,3,0,,False
+Folate biosynthesis,22,0,,False
+One carbon pool by folate,19,0,,False
+Retinol metabolism,29,0,,False
+Porphyrin and chlorophyll metabolism,23,0,,False
+Ubiquinone and other terpenoid-quinone biosynthesis,11,0,,False
+Terpenoid backbone biosynthesis,22,0,,False
+Caffeine metabolism,3,0,,False
+"Neomycin, kanamycin and gentamicin biosynthesis",5,0,,False
+Metabolism of xenobiotics by cytochrome P450,32,0,,False
+Drug metabolism - cytochrome P450,33,0,,False
+Drug metabolism - other enzymes,48,0,,False

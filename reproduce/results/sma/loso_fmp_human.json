@@ -1,0 +1,49 @@
+{
+ "per_section": {
+  "SMA_FMP_V11T17-102_A1": {
+   "median": 0.13743917644023895,
+   "n_detected": 1349,
+   "subject": "hPD1",
+   "n_train_sections": 3,
+   "alpha": 1000000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 50
+  },
+  "SMA_FMP_V11T17-102_B1": {
+   "median": 0.19679495692253113,
+   "n_detected": 1406,
+   "subject": "hPD1",
+   "n_train_sections": 3,
+   "alpha": 1000000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 66
+  },
+  "SMA_FMP_V11T17-102_C1": {
+   "median": 0.15138447284698486,
+   "n_detected": 1412,
+   "subject": "hPD1",
+   "n_train_sections": 3,
+   "alpha": 3000000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 59
+  },
+  "SMA_FMP_V11T17-102_D1": {
+   "median": 0.1315358579158783,
+   "n_detected": 1403,
+   "subject": "hPD1",
+   "n_train_sections": 3,
+   "alpha": 1000000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 48
+  }
+ },
+ "mean": 0.1542886160314083,
+ "sd": 0.0255774054586673,
+ "config": {
+  "n_hvg": 3000,
+  "use_kegg": false,
+  "estimator": "ensemble",
+  "upper_genes": false,
+  "hold_out": "section"
+ }
+}

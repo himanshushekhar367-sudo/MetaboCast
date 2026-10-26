@@ -1,0 +1,14 @@
+metabolite,mz,within_section_r,transfer_r,tier,ambiguous_annotation,HCC-1 N->T,HCC-2 N->T,HCC-3 N->T,HCC-4 N->T,HCC-2 N->P
+Arachidonate(FA20:4),303.2323,0.591,0.219,transfer-supported,False,0.074568,-0.012034,0.187129,0.050205,0.149591
+DHA(FA22:6),327.2314,0.536,0.263,transfer-supported,False,0.061217,-0.010746,0.188305,0.029705,0.130278
+Hexose,179.055,0.508,0.296,transfer-supported,False,0.003485,-0.046654,-0.010776,-0.040032,-0.07651
+Inosine,267.0726,0.497,0.257,transfer-supported,False,-0.041306,-0.062161,-0.058526,-0.15055,-0.140701
+Taurine,124.0072,0.522,0.266,transfer-supported,True,-0.009314,0.062404,-0.042784,-0.042262,0.010119
+Urate,167.0207,0.486,0.326,transfer-supported,True,0.002589,0.024819,-0.038953,-0.014386,-0.012588
+Glutathione(GSH),306.0756,0.586,0.132,within-section only,False,-0.001772,0.006538,-0.000458,0.035482,0.105419
+Ascorbate,175.0228,0.594,0.018,within-section only,False,-0.105655,0.064754,-0.090359,-0.045354,0.055568
+Glutamate,146.0446,0.403,0.056,within-section only,False,-0.011279,0.047218,-0.044751,0.011664,0.043034
+Palmitate(FA16:0),255.2311,0.493,-0.065,within-section only,False,0.041956,-0.051124,0.027669,0.07519,-0.022583
+Stearate(FA18:0),283.2625,0.459,0.009,within-section only,False,-0.001698,-0.045924,0.012662,-0.043191,-0.067734
+Oleate(FA18:1),281.2471,0.444,0.012,within-section only,False,0.042907,0.040487,0.033906,0.037021,0.062265
+Linoleate(FA18:2),279.2317,0.413,-0.007,within-section only,False,0.068236,0.026688,0.040666,0.031632,0.07164

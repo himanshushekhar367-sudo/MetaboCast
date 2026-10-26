@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.egg-info/
+/build/
+/dist/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# data and models (only the shipped model is tracked)
+*.h5ad
+*.pkl
+!metabocast_model.pkl
+training_ready/
+sma_h5ad/
+
+# outputs of the command-line tools, examples and reproduction scripts
+/results/
+/metabolic/
+/pathways/
+/figures/
+/work/
+/external/
+/MetaboCast_Supplementary_Tables*.xlsx
+/MetaboCast_Supplementary_Tables*_notes.json
+/MetaboCast_Additional_file_2*.xlsx
+/MetaboCast_Additional_file_2*_notes.json
+/predicted_metabolites.csv

@@ -1,0 +1,14 @@
+section,matrix,panel,species,subject,region,spots_in_tissue,spots,n_mz,within_section_coupling,shuffled_null
+SMA_DHB_V11L12-038_A1,DHB,lipids,mouse,mPD3,striatum,2856,2493,2754,0.206,0.0
+SMA_DHB_V11L12-038_B1,DHB,lipids,mouse,mPD3,striatum,3002,2615,2754,0.204,-0.002
+SMA_9AA_V11L12-038_D1,9-AA,metabolites,mouse,mPD3,striatum,2913,2434,3658,0.245,-0.001
+SMA_FMP_V11L12-109_A1,FMP-10,neurotransmitters,mouse,mPD1,striatum,2675,2206,1538,0.096,0.003
+SMA_FMP_V11L12-109_B1,FMP-10,neurotransmitters,mouse,mPD3,striatum,3120,2526,1538,0.086,-0.001
+SMA_FMP_V11L12-109_C1,FMP-10,neurotransmitters,mouse,mPD4,striatum,2918,2379,1538,0.094,0.0
+SMA_FMP_V11T16-085_A1,FMP-10,neurotransmitters,mouse,mPD1,substantia nigra,2964,2590,1538,0.174,-0.004
+SMA_FMP_V11T16-085_B1,FMP-10,neurotransmitters,mouse,mPD3,substantia nigra,3357,2917,1538,0.194,-0.003
+SMA_FMP_V11T16-085_C1,FMP-10,neurotransmitters,mouse,mPD4,substantia nigra,3601,3109,1538,0.241,0.006
+SMA_FMP_V11T17-102_A1,FMP-10,neurotransmitters,human,hPD1,striatum,4968,3962,1538,0.083,0.001
+SMA_FMP_V11T17-102_B1,FMP-10,neurotransmitters,human,hPD1,striatum,4984,3748,1538,0.123,0.001
+SMA_FMP_V11T17-102_C1,FMP-10,neurotransmitters,human,hPD1,striatum,4868,3768,1538,0.082,0.001
+SMA_FMP_V11T17-102_D1,FMP-10,neurotransmitters,human,hPD1,striatum,4633,3582,1538,0.14,-0.0

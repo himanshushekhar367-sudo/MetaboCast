@@ -1,0 +1,18 @@
+metabolite,m/z,adduct,within-section r,leave-one-section-out r,tier,HCC-1 tumour - normal,HCC-2 tumour - normal,HCC-3 tumour - normal,HCC-4 tumour - normal
+Glutathione(GSH),306.0756,[M-H]-,0.586,0.132,within-section only,-0.0018,0.0065,-0.0005,0.0355
+Ascorbate,175.0228,[M-H]-,0.594,0.018,within-section only,-0.1057,0.0648,-0.0904,-0.0453
+Arachidonate(FA20:4),303.2323,[M-H]-,0.591,0.219,transfer-supported,0.0746,-0.012,0.1871,0.0502
+DHA(FA22:6),327.2314,[M-H]-,0.536,0.263,transfer-supported,0.0612,-0.0107,0.1883,0.0297
+Palmitate(FA16:0),255.2311,[M-H]-,0.493,-0.065,within-section only,0.042,-0.0511,0.0277,0.0752
+Stearate(FA18:0),283.2625,[M-H]-,0.459,0.009,within-section only,-0.0017,-0.0459,0.0127,-0.0432
+Hexose,179.055,[M-H]-,0.508,0.296,transfer-supported,0.0035,-0.0467,-0.0108,-0.04
+Glutamate,146.0446,[M-H]-,0.403,0.056,within-section only,-0.0113,0.0472,-0.0447,0.0117
+Oleate(FA18:1),281.2471,[M-H]-,0.444,0.012,within-section only,0.0429,0.0405,0.0339,0.037
+Linoleate(FA18:2),279.2317,[M-H]-,0.413,-0.007,within-section only,0.0682,0.0267,0.0407,0.0316
+Inosine,267.0726,[M-H]-,0.497,0.257,transfer-supported,-0.0413,-0.0622,-0.0585,-0.1505
+Taurine,124.0072,[M-H]-,0.522,0.266,transfer-supported,-0.0093,0.0624,-0.0428,-0.0423
+N-acetylaspartate,174.0397,[M-H]-,0.427,0.182,within-section only,-0.0048,0.0519,-0.0462,0.042
+Urate,167.0207,[M-H]-,0.486,0.326,transfer-supported,0.0026,0.0248,-0.0389,-0.0144
+Xanthine,151.0251,[M-H]-,0.409,0.01,within-section only,0.0114,0.2495,-0.0449,-0.0101
+AMP,346.0543,[M-H]-,0.536,0.156,within-section only,-0.0377,-0.033,-0.0332,0.0284
+Lactate,89.0249,[M-H]-,0.239,0.095,low,0.0136,0.0221,-0.004,0.0674

@@ -1,0 +1,57 @@
+mz,annotation,within_section_r,transfer_r,tier,mean_N,sd_N,mean_P,sd_P,delta_NtoP_log,n_spots_N,n_spots_P,ambiguous_annotation
+151.0251,Xanthine [M-H]-,0.409,0.01,within-section only,0.6341,0.0256,0.8277,0.0521,0.1936,4614,4661,False
+303.2323,FA20:4(AA) [M-H]-,0.591,0.219,transfer-supported,2.9338,0.0394,3.0834,0.0778,0.1496,4614,4661,False
+327.2314,FA22:6(DHA) [M-H]-,0.536,0.263,transfer-supported,1.1563,0.0376,1.2866,0.0386,0.1303,4614,4661,False
+766.5349,PE38:4 [M-H]-,0.624,0.195,within-section only,3.2347,0.0185,3.3414,0.04,0.1067,4614,4661,False
+306.0756,Glutathione [M-H]-,0.586,0.132,within-section only,1.4787,0.0243,1.5841,0.0387,0.1054,4614,4661,False
+365.3412,FA24:1 [M-H]-,0.506,0.272,transfer-supported,0.5397,0.013,0.6401,0.0247,0.1004,4614,4661,False
+301.2169,FA20:5(EPA) [M-H]-,0.437,0.051,within-section only,0.7449,0.0267,0.8419,0.0272,0.097,4614,4661,False
+154.0613,Histidine [M-H]-,0.4,0.135,within-section only,1.1116,0.0135,1.1855,0.0268,0.0739,4614,4661,False
+279.2317,FA18:2 [M-H]-,0.413,-0.007,within-section only,3.1331,0.0234,3.2047,0.049,0.0716,4614,4661,False
+135.031,Hypoxanthine [M-H]-; Lactate [M+HCOO]-,0.482,0.157,within-section only,1.9089,0.0127,1.9751,0.0186,0.0662,4614,4661,True
+281.2471,FA18:1 [M-H]-,0.444,0.012,within-section only,3.7518,0.0118,3.814,0.0264,0.0623,4614,4661,False
+175.0228,Ascorbate [M-H]-,0.594,0.018,within-section only,3.3047,0.0457,3.3603,0.0482,0.0556,4614,4661,False
+885.549,PI38:4 [M-H]-,0.546,0.169,within-section only,3.7381,0.0187,3.7911,0.0169,0.0529,4614,4661,False
+145.0601,Glutamine [M-H]-,0.372,-0.112,within-section only,1.7582,0.0107,1.8085,0.0173,0.0503,4614,4661,False
+202.1103,Acetylcarnitine [M-H]-,0.342,0.172,within-section only,0.1843,0.0099,0.233,0.0184,0.0487,4614,4661,False
+174.0397,N-acetylaspartate [M-H]-,0.427,0.182,within-section only,0.3452,0.017,0.3935,0.0168,0.0483,4614,4661,False
+844.5611,PC38:4 [M+Cl]-,0.568,0.171,within-section only,2.28,0.0158,2.327,0.0248,0.047,4614,4661,False
+171.0065,Hypoxanthine [M+Cl]-,0.427,0.088,within-section only,0.3727,0.015,0.4193,0.0109,0.0466,4614,4661,False
+146.0446,Glutamate [M-H]-,0.402,0.056,within-section only,2.009,0.0145,2.0521,0.0185,0.043,4614,4661,False
+117.0186,Succinate [M-H]-,0.431,0.18,within-section only,0.3501,0.0092,0.3904,0.0146,0.0403,4614,4661,False
+323.0252,UMP [M-H]-,0.37,0.128,within-section only,0.4766,0.0087,0.5146,0.0155,0.038,4614,4661,False
+747.5177,PG34:1 [M-H]-,0.576,0.282,transfer-supported,2.2205,0.0195,2.2573,0.0297,0.0368,4614,4661,False
+572.4801,Cer d18:1/16:0 [M+Cl]-,0.667,0.365,transfer-supported,2.8383,0.0279,2.8723,0.0405,0.034,4614,4661,False
+812.5424,PE38:4 [M+HCOO]-,0.57,0.204,transfer-supported,1.9729,0.015,2.0058,0.0124,0.0329,4614,4661,False
+115.0032,Fumarate [M-H]-,0.505,0.026,within-section only,1.1119,0.0217,1.1446,0.0269,0.0328,4614,4661,False
+794.5445,PC34:1 [M+Cl]-,0.608,0.284,transfer-supported,3.5348,0.0362,3.5676,0.052,0.0328,4614,4661,False
+132.0297,Aspartate [M-H]-,0.451,0.053,within-section only,0.9308,0.0157,0.9602,0.0182,0.0294,4614,4661,False
+160.0654,Proline [M+HCOO]-,0.395,-0.039,within-section only,0.9571,0.0081,0.9752,0.0097,0.018,4614,4661,False
+181.0704,Lysine [M+Cl]-,0.335,0.112,within-section only,0.3094,0.0053,0.3255,0.0117,0.0162,4614,4661,False
+742.5372,PE36:2 [M-H]-,0.657,0.445,transfer-supported,3.1598,0.0386,3.1741,0.0565,0.0143,4614,4661,False
+921.5201,PI38:4 [M+Cl]-,0.442,0.342,transfer-supported,0.774,0.0222,0.7871,0.0309,0.0131,4614,4661,False
+804.5693,PC34:1 [M+HCOO]-,0.451,0.274,transfer-supported,1.431,0.0166,1.4424,0.0238,0.0115,4614,4661,False
+346.0543,AMP [M-H]-,0.536,0.156,within-section only,0.7736,0.0175,0.7843,0.026,0.0107,4614,4661,False
+124.0072,Taurine [M-H]-; Alanine [M+Cl]-,0.522,0.266,transfer-supported,2.4106,0.011,2.4207,0.0213,0.0101,4614,4661,True
+820.5591,PC36:2 [M+Cl]-,0.591,0.259,transfer-supported,2.9497,0.0291,2.9588,0.0435,0.0091,4614,4661,False
+737.535,SM d18:1/16:0 [M+Cl]-,0.544,0.249,transfer-supported,2.4061,0.0176,2.4146,0.0173,0.0085,4614,4661,False
+226.9953,Citrate/isocitrate [M+Cl]-,0.396,0.08,within-section only,1.1496,0.0116,1.1572,0.0137,0.0076,4614,4661,False
+191.0183,Citrate/isocitrate [M-H]-; aKG [M+HCOO]-,0.337,0.001,within-section only,0.5467,0.0101,0.5463,0.0084,-0.0004,4614,4661,True
+893.7309,TAG52:2 [M+Cl]-,0.261,0.239,transfer-supported,0.6902,0.0224,0.6837,0.0442,-0.0065,4614,4661,False
+140.0115,Serine [M+Cl]-,0.357,0.006,within-section only,0.6464,0.0066,0.6397,0.0091,-0.0067,4614,4661,False
+134.0465,Alanine [M+HCOO]-,0.491,0.212,transfer-supported,0.3326,0.0115,0.3231,0.0149,-0.0095,4614,4661,False
+167.0207,Urate [M-H]-; Asparagine [M+Cl]-,0.486,0.326,transfer-supported,2.2045,0.0093,2.1919,0.0128,-0.0126,4614,4661,True
+292.0707,Glycerophosphocholine [M+Cl]-,0.362,0.149,within-section only,0.3409,0.0065,0.3226,0.0128,-0.0183,4614,4661,False
+255.2311,FA16:0 [M-H]-,0.493,-0.064,within-section only,4.6975,0.0231,4.6749,0.0405,-0.0226,4614,4661,False
+788.5433,PS36:1 [M-H]-; PE36:2 [M+HCOO]-,0.558,0.298,transfer-supported,3.3688,0.0177,3.3387,0.0186,-0.0301,4614,4661,True
+303.0496,Inosine [M+Cl]-,0.281,0.209,transfer-supported,0.3904,0.0119,0.3595,0.0236,-0.0309,4614,4661,False
+830.5838,PC36:2 [M+HCOO]-,0.411,0.183,within-section only,1.0608,0.0121,1.0292,0.016,-0.0316,4614,4661,False
+530.3004,LPC16:0 [M+Cl]-,0.443,0.204,transfer-supported,0.977,0.0169,0.9441,0.0233,-0.0329,4614,4661,False
+243.0604,Kynurenine [M+Cl]-,0.428,0.037,within-section only,2.0648,0.026,2.0067,0.0338,-0.0582,4614,4661,False
+283.2625,FA18:0 [M-H]-,0.459,0.009,within-section only,4.0798,0.0187,4.012,0.0378,-0.0677,4614,4661,False
+179.055,Hexose [M-H]-,0.508,0.296,transfer-supported,1.2923,0.0106,1.2158,0.0145,-0.0765,4614,4661,False
+215.032,Hexose [M+Cl]-,0.575,0.377,transfer-supported,2.8015,0.0225,2.7107,0.0287,-0.0908,4614,4661,False
+216.0368,Tyrosine [M+Cl]-,0.442,0.3,transfer-supported,0.7602,0.0194,0.6299,0.0433,-0.1303,4614,4661,False
+267.0726,Inosine [M-H]-,0.497,0.257,transfer-supported,2.3082,0.0173,2.1675,0.0384,-0.1407,4614,4661,False
+187.0064,Xanthine [M+Cl]-,0.574,0.402,transfer-supported,1.572,0.0435,1.3794,0.0469,-0.1926,4614,4661,False
+302.0651,Adenosine [M+Cl]-,0.428,0.216,transfer-supported,0.8538,0.033,0.6483,0.0219,-0.2055,4614,4661,False

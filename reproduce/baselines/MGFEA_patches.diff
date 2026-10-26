@@ -1,0 +1,37 @@
+diff --git a/MGFEA/multiGraphFEA.py b/MGFEA/multiGraphFEA.py
+index a162098..94863de 100644
+--- a/MGFEA/multiGraphFEA.py
++++ b/MGFEA/multiGraphFEA.py
+@@ -164,7 +164,7 @@ class SpatialGraphFEA(object):
+                  save_model='./model.pth',coexp=True,lambda_latent=0.5):
+         
+         self.dataIn_h5 = dataIn_h5
+-        self.dataIn = dataIn_h5.X.todense()
++        self.dataIn = np.asarray(dataIn_h5.X.todense())
+         self.edge_index = edge_index 
+         self.cMat = cMat
+         self.train_epoch_num = train_epoch_num
+@@ -292,7 +292,7 @@ class RefGraphFEA(object):
+                  save_model='./model.pth',path_log='./log.csv',coexp = True,lambda_latent=0.5):
+         
+         self.dataIn_h5 = dataIn_h5
+-        self.dataIn = dataIn_h5.X.todense()
++        self.dataIn = np.asarray(dataIn_h5.X.todense())
+         self.edge_index = edge_index
+         self.cMat = cMat
+         self.train_epoch_num = train_epoch_num
+diff --git a/MGFEA/preprocess.py b/MGFEA/preprocess.py
+index 7b71384..db31556 100644
+--- a/MGFEA/preprocess.py
++++ b/MGFEA/preprocess.py
+@@ -135,8 +135,8 @@ def geneEmbedding(dataIn, Genes, scMat, pc_num=512,coexp = True):
+     abs_sim = sim_df.loc[~sim_df.index.isin(hvg),sim_df.index.isin(hvg)]
+     edge_coexp = abs_sim.idxmax()
+     for i in range(len(edge_coexp.index)):
+-        coexpadj_tab.loc[edge_coexp.index[i],edge_coexp[i]]+=1
+-        coexpadj_tab.loc[edge_coexp[i],edge_coexp.index[i]]+=1
++        coexpadj_tab.loc[edge_coexp.index[i],edge_coexp.iloc[i]]+=1
++        coexpadj_tab.loc[edge_coexp.iloc[i],edge_coexp.index[i]]+=1
+     coexpadj_tab = (coexpadj_tab.values>0).astype(int)
+     
+     

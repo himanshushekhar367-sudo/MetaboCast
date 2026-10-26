@@ -1,0 +1,17 @@
+{
+  "title": "MetaboCast: predicting spatial metabolite maps from spatial transcriptomics with per-ion reliability",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "MetaboCast learns from paired mass-spectrometry imaging and spatial transcriptomics to predict metabolite ion maps for transcriptome-only sections. Every predicted ion carries an empirical uncertainty width, its accuracy within sections and on unseen sections, a reliability tier that separates the two, and putative exact-mass candidates. The release contains the Python package, the R/Seurat interface, a model trained on seven paired DESI-MSI/Visium tumour sections, the exported SMA spot-to-pixel pairing, and the scripts and result files behind every figure and table of the accompanying manuscript.",
+  "creators": [
+    {"name": "Shekhar, Himanshu", "affiliation": "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"},
+    {"name": "Deep, Auroni", "affiliation": "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"},
+    {"name": "Minocha, Shilpi", "affiliation": "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"},
+    {"name": "Kumar, Saran", "affiliation": "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"}
+  ],
+  "license": "MIT",
+  "keywords": ["spatial transcriptomics", "spatial metabolomics", "mass spectrometry imaging", "metabolite prediction", "uncertainty quantification"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/himanshushekhar367-sudo/MetaboCast", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

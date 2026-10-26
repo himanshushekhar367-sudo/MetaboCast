@@ -1,0 +1,14 @@
+section,matrix,subject,condition,species,brain_area,source,pairs_published,pairs_kept
+V11L12-038_A1,DHB,mPD3,mPD,mouse,Striatum,knn_spatial_df_filtered_list,2493,2493
+V11L12-038_B1,DHB,mPD3,mPD,mouse,Striatum,knn_spatial_df_filtered_list,2615,2615
+V11L12-038_D1,9-AA,mPD3,mPD,mouse,Striatum,knn_spatial_df_filtered_list,2434,2434
+V11L12-109_A1,FMP-10,mPD1,mPD,mouse,Striatum,knn_spatial_df_filtered_list,2206,2206
+V11L12-109_B1,FMP-10,mPD3,mPD,mouse,Striatum,knn_spatial_df_filtered_list,2526,2526
+V11L12-109_C1,FMP-10,mPD4,mPD,mouse,Striatum,knn_spatial_df_filtered_list,2379,2379
+V11T16-085_A1,FMP-10,mPD1,mPD,mouse,SubNigra,knn_spatial_df_filtered_list,2590,2590
+V11T16-085_B1,FMP-10,mPD3,mPD,mouse,SubNigra,knn_spatial_df_filtered_list,2917,2917
+V11T16-085_C1,FMP-10,mPD4,mPD,mouse,SubNigra,knn_spatial_df_filtered_list,3109,3109
+V11T17-102_A1,FMP-10,hPD1,hPD,human,Striatum,hPDStr.multi.list (matched by spectrum),3962,3962
+V11T17-102_B1,FMP-10,hPD1,hPD,human,Striatum,hPDStr.multi.list (matched by spectrum),3748,3748
+V11T17-102_C1,FMP-10,hPD1,hPD,human,Striatum,hPDStr.multi.list (matched by spectrum),3768,3768
+V11T17-102_D1,FMP-10,hPD1,hPD,human,Striatum,hPDStr.multi.list (matched by spectrum),3582,3582

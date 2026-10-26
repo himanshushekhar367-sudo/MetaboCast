@@ -1,0 +1,95 @@
+{
+  "generated": "2026-10-22T17:18:14",
+  "script": "regenerate_crosscancer.py",
+  "script_sha256": "72003fed6c052e6f16c9659feebea703bd6b7239678916eb7ffa1924fbe6e7b2",
+  "root": "spatial metabolism",
+  "git_head": "8d27901af686caefd62c533a04526e347d867b68",
+  "git_uncommitted_changes": false,
+  "n_shared_genes": 12597,
+  "n_mz": 2086,
+  "gene_space": "intersection of 7 DESIUM sections, 5 HCC patients and both GBM sections",
+  "alpha": 10000000.0,
+  "alpha_selection": "leave-one-section-out",
+  "target_transform": "rank",
+  "n_pcs": 100,
+  "k": 6,
+  "niches": 5,
+  "tiers": {
+    "transfer-supported": "DESIUM leave-one-section-out r >= 0.2",
+    "within-section only": "DESIUM within-section r >= 0.3, transfer below",
+    "accuracy_table": "reproduce/results/desium_per_ion_accuracy.csv"
+  },
+  "niche_features": "all transfer-supported channels, z-scored",
+  "seed": 0,
+  "graph_operator": "D^-1/2 A (metabocast._norm_adj)",
+  "training": "all 7 DESIUM sections pooled, no held-out fold",
+  "hvg_selection": "none - PCA on all shared genes",
+  "patients": {
+    "HCC-1": {
+      "counts_sha256": "fb2b634baa91d18d09933b91dc15445cb1cd409067f034817fddaeb2112b635b",
+      "n_spots": 8859,
+      "regions": {
+        "L": 2755,
+        "N": 2947,
+        "T": 3157
+      }
+    },
+    "HCC-2": {
+      "counts_sha256": "e0aa426105774e72d7960a443a47ba2b1394fc8ff53a5f77d8b894a9d65fe7b5",
+      "n_spots": 18612,
+      "regions": {
+        "L": 4642,
+        "N": 4614,
+        "P": 4661,
+        "T": 4695
+      }
+    },
+    "HCC-3": {
+      "counts_sha256": "8dd34cec848bc802ffbf8cbbe258b7918bc25f08f624458675d7acca51ece11b",
+      "n_spots": 13468,
+      "regions": {
+        "L": 4750,
+        "N": 4271,
+        "T": 4447
+      }
+    },
+    "HCC-4": {
+      "counts_sha256": "a1612a3c3fb3615599a130573c228d596fb8550477ada492197b66df0392e4da",
+      "n_spots": 12609,
+      "regions": {
+        "L": 4092,
+        "N": 4375,
+        "T": 4142
+      }
+    },
+    "HCC-5": {
+      "counts_sha256": "aee6c9560f9a195b7e09d62c88e7b317708ba0f611b2ed8bfa1dc86675601cca",
+      "n_spots": 15264,
+      "regions": {
+        "A": 3437,
+        "B": 3942,
+        "C": 3580,
+        "D": 4305
+      }
+    }
+  },
+  "gbm": {
+    "cytassist_sha256": "ee4d6f97792be3a1ea9a7f7a4f6517d12791db06f49977cb532efbefe60cd17b",
+    "visium_sha256": "76d6b36807972a25c856a4bfe9ef3cd4ca71eaf5c4591271b0a7e471457ffb98",
+    "n_antibody_features": 35,
+    "n_informative_markers": 31,
+    "isotype_controls_dropped": 4
+  },
+  "n_annotated": 100,
+  "n_supported_annotated": 56,
+  "n_transfer_supported_channels": 310,
+  "versions": {
+    "python": "3.13.16",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "anndata": "0.13.4",
+    "pandas": "3.0.5",
+    "h5py": "3.16.0"
+  }
+}
