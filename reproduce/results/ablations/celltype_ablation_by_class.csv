@@ -1,0 +1,5 @@
+class,n_ions,B_diffusion,C_+KEGG,D_+celltype,E_+celltype_nbhd
+lipid,37,0.17,0.1766,0.1756,0.1818
+redox,3,0.0837,0.0923,0.0826,0.1003
+nucleotide,11,0.1345,0.1401,0.1378,0.1422
+polar,45,0.0696,0.0721,0.0676,0.0716

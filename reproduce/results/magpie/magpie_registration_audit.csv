@@ -1,0 +1,9 @@
+section,align_coupling,shuffled_null,orientation used (coupling-selected),tissue-geometry best orientation (IoU),IoU margin over runner-up,orientations agree
+bleo_d21_1,0.262,0.005,3,2,0.0174,no
+bleo_d21_2,0.222,0.0,3,6,0.0269,no
+bleo_d21_3,0.346,-0.002,2,0,0.0149,no
+bleo_d21_4b,0.233,-0.001,0,2,0.0543,no
+bleo_d21_5b,0.241,-0.007,3,4,0.0131,no
+bleo_d21_6b,0.172,0.013,0,7,0.0035,no
+control_d21_1,0.157,0.006,1,2,0.0032,no
+control_d21_3,0.124,0.006,7,3,0.0009,no

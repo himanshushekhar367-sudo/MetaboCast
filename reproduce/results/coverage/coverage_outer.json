@@ -1,0 +1,177 @@
+{
+ "per_section": {
+  "BC_515_Section_1": {
+   "patient": "BC_515",
+   "n_spots": 3508,
+   "n_detected": 2069,
+   "coverage_crossfit": 0.9193462653615598,
+   "coverage_split_mean": 0.8079528226030896,
+   "coverage_split_by_calibration_patient": {
+    "BC_525": 0.8894,
+    "BC_823": 0.7947,
+    "LC_091": 0.8309,
+    "LC_170": 0.7622,
+    "LC_276": 0.7626
+   },
+   "median_width": 0.5415070652961731,
+   "median_relative_width": 2.1657898574383263,
+   "lopo_median_r": 0.0774063915014267,
+   "alpha": 10000000.0,
+   "seconds": 212
+  },
+  "BC_515_Section_2": {
+   "patient": "BC_515",
+   "n_spots": 1926,
+   "n_detected": 2061,
+   "coverage_crossfit": 0.7956669956765183,
+   "coverage_split_mean": 0.7141783596163332,
+   "coverage_split_by_calibration_patient": {
+    "BC_525": 0.7596,
+    "BC_823": 0.7357,
+    "LC_091": 0.7288,
+    "LC_170": 0.6838,
+    "LC_276": 0.663
+   },
+   "median_width": 0.5399195551872253,
+   "median_relative_width": 2.3205010657352987,
+   "lopo_median_r": 0.04230814799666405,
+   "alpha": 10000000.0,
+   "seconds": 213
+  },
+  "LC_091": {
+   "patient": "LC_091",
+   "n_spots": 2141,
+   "n_detected": 2037,
+   "coverage_crossfit": 0.8338122134257479,
+   "coverage_split_mean": 0.7569714600305374,
+   "coverage_split_by_calibration_patient": {
+    "BC_515": 0.8117,
+    "BC_525": 0.7912,
+    "BC_823": 0.7478,
+    "LC_170": 0.7132,
+    "LC_276": 0.721
+   },
+   "median_width": 0.5124714374542236,
+   "median_relative_width": 2.8806916912023253,
+   "lopo_median_r": 0.030162233859300613,
+   "alpha": 3000000.0,
+   "seconds": 269
+  },
+  "LC_276": {
+   "patient": "LC_276",
+   "n_spots": 1868,
+   "n_detected": 2054,
+   "coverage_crossfit": 0.9105609986468144,
+   "coverage_split_mean": 0.8551324620680596,
+   "coverage_split_by_calibration_patient": {
+    "BC_515": 0.8777,
+    "BC_525": 0.864,
+    "BC_823": 0.8278,
+    "LC_091": 0.8464,
+    "LC_170": 0.8598
+   },
+   "median_width": 0.5677585601806641,
+   "median_relative_width": 3.03355861803239,
+   "lopo_median_r": 0.02014191262423992,
+   "alpha": 3000000.0,
+   "seconds": 284
+  },
+  "BC_525": {
+   "patient": "BC_525",
+   "n_spots": 3270,
+   "n_detected": 2061,
+   "coverage_crossfit": 0.9003900900219157,
+   "coverage_split_mean": 0.7893427821475576,
+   "coverage_split_by_calibration_patient": {
+    "BC_515": 0.8688,
+    "BC_823": 0.7727,
+    "LC_091": 0.8098,
+    "LC_170": 0.7548,
+    "LC_276": 0.7405
+   },
+   "median_width": 0.6076436042785645,
+   "median_relative_width": 2.253000401562285,
+   "lopo_median_r": 0.06307924538850784,
+   "alpha": 10000000.0,
+   "seconds": 249
+  },
+  "BC_823": {
+   "patient": "BC_823",
+   "n_spots": 1076,
+   "n_detected": 2044,
+   "coverage_crossfit": 0.9037649408187168,
+   "coverage_split_mean": 0.814446307626274,
+   "coverage_split_by_calibration_patient": {
+    "BC_515": 0.8839,
+    "BC_525": 0.8234,
+    "LC_091": 0.819,
+    "LC_170": 0.7789,
+    "LC_276": 0.767
+   },
+   "median_width": 0.5688934922218323,
+   "median_relative_width": 2.888031780388284,
+   "lopo_median_r": 0.04479270428419113,
+   "alpha": 10000000.0,
+   "seconds": 289
+  },
+  "LC_170": {
+   "patient": "LC_170",
+   "n_spots": 1027,
+   "n_detected": 2055,
+   "coverage_crossfit": 0.9147129688199632,
+   "coverage_split_mean": 0.853476523168845,
+   "coverage_split_by_calibration_patient": {
+    "BC_515": 0.8942,
+    "BC_525": 0.8602,
+    "BC_823": 0.8405,
+    "LC_091": 0.8525,
+    "LC_276": 0.8199
+   },
+   "median_width": 0.5654026865959167,
+   "median_relative_width": 2.9490878610080165,
+   "lopo_median_r": 0.01943531632423401,
+   "alpha": 1000000.0,
+   "seconds": 301
+  }
+ },
+ "per_patient": {
+  "BC_515": {
+   "coverage_crossfit": 0.8575066305190391,
+   "coverage_split_mean": 0.7610655911097115,
+   "lopo_median_r": 0.05985726974904537
+  },
+  "LC_091": {
+   "coverage_crossfit": 0.8338122134257479,
+   "coverage_split_mean": 0.7569714600305374,
+   "lopo_median_r": 0.030162233859300613
+  },
+  "LC_276": {
+   "coverage_crossfit": 0.9105609986468144,
+   "coverage_split_mean": 0.8551324620680596,
+   "lopo_median_r": 0.02014191262423992
+  },
+  "BC_525": {
+   "coverage_crossfit": 0.9003900900219157,
+   "coverage_split_mean": 0.7893427821475576,
+   "lopo_median_r": 0.06307924538850784
+  },
+  "BC_823": {
+   "coverage_crossfit": 0.9037649408187168,
+   "coverage_split_mean": 0.814446307626274,
+   "lopo_median_r": 0.04479270428419113
+  },
+  "LC_170": {
+   "coverage_crossfit": 0.9147129688199632,
+   "coverage_split_mean": 0.853476523168845,
+   "lopo_median_r": 0.01943531632423401
+  }
+ },
+ "mean_coverage_crossfit_sections": 0.8826077818244623,
+ "mean_coverage_split_sections": 0.798785816751528,
+ "mean_coverage_crossfit_patients": 0.8867913070420329,
+ "mean_coverage_split_patients": 0.8050725210251642,
+ "lopo_mean_of_sections": 0.04247513599693775,
+ "lopo_sd_of_sections": 0.020111598141067565,
+ "nominal": 0.9,
+ "units": "patients (BC_515 sections 1 and 2 held out together)"
+}

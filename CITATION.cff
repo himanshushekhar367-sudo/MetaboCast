@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use MetaboCast, please cite the software and the accompanying manuscript."
+title: "MetaboCast: predicting spatial metabolite maps from spatial transcriptomics with per-ion reliability"
+abstract: "MetaboCast learns from paired mass-spectrometry imaging and spatial transcriptomics to predict metabolite ion maps for transcriptome-only sections. Principal components of gene expression and copies diffused over the spot graph feed an ensemble of ridge regression and extremely randomized trees trained on section-wise rank-normalised ion intensities. Every predicted ion carries an empirical uncertainty width, its accuracy within sections and on unseen sections, a reliability tier that separates the two, and putative exact-mass candidates."
+type: software
+authors:
+  - family-names: "Shekhar"
+    given-names: "Himanshu"
+    affiliation: "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"
+    orcid: "https://orcid.org/0009-0003-9665-4323"
+  - family-names: "Deep"
+    given-names: "Auroni"
+    affiliation: "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"
+    orcid: "https://orcid.org/0009-0001-0370-0868"
+  - family-names: "Minocha"
+    given-names: "Shilpi"
+    affiliation: "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"
+    orcid: "https://orcid.org/0000-0001-8229-1443"
+  - family-names: "Kumar"
+    given-names: "Saran"
+    affiliation: "Kusuma School of Biological Sciences, Indian Institute of Technology Delhi"
+    orcid: "https://orcid.org/0000-0002-5052-0499"
+doi: "10.5281/zenodo.23661778"
+repository-code: "https://github.com/himanshushekhar367-sudo/MetaboCast"
+url: "https://github.com/himanshushekhar367-sudo/MetaboCast"
+license: MIT
+keywords:
+  - spatial transcriptomics
+  - spatial metabolomics
+  - mass spectrometry imaging
+  - metabolite prediction
+  - uncertainty quantification
+version: "1.0.0"
+date-released: "2026-10-26"

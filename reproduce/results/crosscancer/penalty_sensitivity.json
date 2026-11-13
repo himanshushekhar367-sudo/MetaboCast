@@ -1,0 +1,644 @@
+{
+ "n_shared_genes": 12597,
+ "released_alpha": 10000000.0,
+ "inner_cv_curve": {
+  "0.1": 0.005134,
+  "1": 0.005136,
+  "10": 0.005283,
+  "100": 0.006385,
+  "300": 0.008336,
+  "1000": 0.011359,
+  "3000": 0.014325,
+  "10000": 0.017957,
+  "30000": 0.023711,
+  "100000": 0.033482,
+  "300000": 0.04272,
+  "1e+06": 0.049639,
+  "3e+06": 0.053015,
+  "1e+07": 0.054235,
+  "3e+07": 0.054009,
+  "1e+08": 0.054448,
+  "3e+08": 0.055903,
+  "1e+09": 0.056887,
+  "3e+09": 0.057141,
+  "1e+10": 0.057336,
+  "3e+10": 0.057156,
+  "1e+11": 0.057221,
+  "3e+11": 0.05724,
+  "1e+12": 0.05725
+ },
+ "extended_alpha": 10000000000.0,
+ "inner_cv_at_released": 0.054235,
+ "inner_cv_at_extended": 0.057336,
+ "mean_spatial_sd": {
+  "released": 0.01617,
+  "extended": 0.00144
+ },
+ "agreement": {
+  "edge": {
+   "annotated_upper_tiers": {
+    "n": 224,
+    "spearman": 0.852,
+    "same_sign": 0.808,
+    "median_magnitude_ratio": 0.099
+   },
+   "transfer_supported": {
+    "n": 1240,
+    "spearman": 0.914,
+    "same_sign": 0.948,
+    "median_magnitude_ratio": 0.112
+   }
+  },
+  "pvtt": {
+   "annotated_upper_tiers": {
+    "n": 56,
+    "spearman": 0.507,
+    "same_sign": 0.75,
+    "median_magnitude_ratio": 0.179
+   },
+   "transfer_supported": {
+    "n": 310,
+    "spearman": 0.717,
+    "same_sign": 0.819,
+    "median_magnitude_ratio": 0.228
+   }
+  },
+  "region": {
+   "annotated_upper_tiers": {
+    "n": 224,
+    "spearman": 0.468,
+    "same_sign": 0.643,
+    "median_magnitude_ratio": 0.143
+   },
+   "transfer_supported": {
+    "n": 1240,
+    "spearman": 0.396,
+    "same_sign": 0.64,
+    "median_magnitude_ratio": 0.239
+   }
+  },
+  "type": {
+   "annotated_upper_tiers": {
+    "n": 224,
+    "spearman": 0.66,
+    "same_sign": 0.732,
+    "median_magnitude_ratio": 0.143
+   },
+   "transfer_supported": {
+    "n": 1240,
+    "spearman": 0.724,
+    "same_sign": 0.829,
+    "median_magnitude_ratio": 0.224
+   }
+  }
+ },
+ "consistent_tumour_normal": {
+  "released": {
+   "lower_in_all_four": [
+    "134.0465 Alanine [M+HCOO]-",
+    "187.0064 Xanthine [M+Cl]-",
+    "215.0320 Hexose [M+Cl]-",
+    "216.0368 Tyrosine [M+Cl]-",
+    "267.0726 Inosine [M-H]-"
+   ],
+   "higher_in_all_four": [
+    "365.3412 FA24:1 [M-H]-"
+   ]
+  },
+  "extended": {
+   "lower_in_all_four": [
+    "167.0207 Urate [M-H]-; Asparagine [M+Cl]-",
+    "179.0550 Hexose [M-H]-",
+    "187.0064 Xanthine [M+Cl]-",
+    "215.0320 Hexose [M+Cl]-",
+    "216.0368 Tyrosine [M+Cl]-",
+    "267.0726 Inosine [M-H]-",
+    "303.0496 Inosine [M+Cl]-"
+   ],
+   "higher_in_all_four": [
+    "134.0465 Alanine [M+HCOO]-",
+    "303.2323 FA20:4(AA) [M-H]-",
+    "327.2314 FA22:6(DHA) [M-H]-",
+    "365.3412 FA24:1 [M-H]-",
+    "530.3004 LPC16:0 [M+Cl]-",
+    "572.4801 Cer d18:1/16:0 [M+Cl]-",
+    "737.5350 SM d18:1/16:0 [M+Cl]-",
+    "742.5372 PE36:2 [M-H]-",
+    "747.5177 PG34:1 [M-H]-",
+    "788.5433 PS36:1 [M-H]-; PE36:2 [M+HCOO]-",
+    "794.5445 PC34:1 [M+Cl]-",
+    "804.5693 PC34:1 [M+HCOO]-",
+    "812.5424 PE38:4 [M+HCOO]-",
+    "820.5591 PC36:2 [M+Cl]-",
+    "921.5201 PI38:4 [M+Cl]-"
+   ]
+  }
+ },
+ "pvtt_largest_transfer_supported": [
+  {
+   "mz": 302.0651,
+   "annotation": "Adenosine [M+Cl]-",
+   "released": -0.20288,
+   "extended": -0.00424
+  },
+  {
+   "mz": 187.0064,
+   "annotation": "Xanthine [M+Cl]-",
+   "released": -0.19767,
+   "extended": -0.03513
+  },
+  {
+   "mz": 303.2323,
+   "annotation": "FA20:4(AA) [M-H]-",
+   "released": 0.15237,
+   "extended": 0.02339
+  },
+  {
+   "mz": 267.0726,
+   "annotation": "Inosine [M-H]-",
+   "released": -0.14166,
+   "extended": -0.00626
+  },
+  {
+   "mz": 327.2314,
+   "annotation": "FA22:6(DHA) [M-H]-",
+   "released": 0.13703,
+   "extended": 0.02257
+  },
+  {
+   "mz": 216.0368,
+   "annotation": "Tyrosine [M+Cl]-",
+   "released": -0.1325,
+   "extended": -0.0119
+  },
+  {
+   "mz": 365.3412,
+   "annotation": "FA24:1 [M-H]-",
+   "released": 0.10192,
+   "extended": 0.00728
+  },
+  {
+   "mz": 215.032,
+   "annotation": "Hexose [M+Cl]-",
+   "released": -0.09345,
+   "extended": -0.02389
+  },
+  {
+   "mz": 179.055,
+   "annotation": "Hexose [M-H]-",
+   "released": -0.07839,
+   "extended": -0.01068
+  },
+  {
+   "mz": 747.5177,
+   "annotation": "PG34:1 [M-H]-",
+   "released": 0.03918,
+   "extended": 0.0143
+  }
+ ],
+ "curated_type_level": {
+  "Arachidonate(FA20:4)": {
+   "type": {
+    "released": [
+     0.093,
+     0.101,
+     0.158,
+     0.03
+    ],
+    "extended": [
+     0.011,
+     0.019,
+     0.01,
+     0.017
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.135,
+     0.098,
+     0.125,
+     0.053
+    ],
+    "extended": [
+     0.009,
+     0.01,
+     0.006,
+     0.008
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "DHA(FA22:6)": {
+   "type": {
+    "released": [
+     0.075,
+     0.079,
+     0.171,
+     0.011
+    ],
+    "extended": [
+     0.012,
+     0.018,
+     0.012,
+     0.016
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.105,
+     0.067,
+     0.145,
+     0.033
+    ],
+    "extended": [
+     0.009,
+     0.01,
+     0.008,
+     0.008
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Hexose": {
+   "type": {
+    "released": [
+     -0.004,
+     -0.058,
+     -0.016,
+     -0.031
+    ],
+    "extended": [
+     -0.003,
+     -0.009,
+     -0.002,
+     -0.009
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     -0.009,
+     -0.047,
+     -0.038,
+     -0.016
+    ],
+    "extended": [
+     -0.002,
+     -0.006,
+     -0.003,
+     -0.003
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Inosine": {
+   "type": {
+    "released": [
+     -0.046,
+     -0.102,
+     -0.063,
+     -0.123
+    ],
+    "extended": [
+     -0.003,
+     -0.005,
+     -0.004,
+     -0.008
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     -0.036,
+     -0.066,
+     -0.073,
+     -0.07
+    ],
+    "extended": [
+     -0.002,
+     -0.004,
+     -0.004,
+     -0.005
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Taurine": {
+   "type": {
+    "released": [
+     -0.014,
+     0.01,
+     -0.039,
+     -0.036
+    ],
+    "extended": [
+     -0.002,
+     -0.002,
+     -0.004,
+     -0.006
+    ],
+    "same_sign": 3,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     -0.015,
+     -0.017,
+     -0.032,
+     -0.031
+    ],
+    "extended": [
+     -0.002,
+     -0.002,
+     -0.003,
+     -0.004
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Urate": {
+   "type": {
+    "released": [
+     -0.005,
+     -0.009,
+     -0.035,
+     -0.014
+    ],
+    "extended": [
+     -0.002,
+     -0.004,
+     -0.003,
+     -0.005
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     -0.016,
+     -0.028,
+     -0.03,
+     -0.018
+    ],
+    "extended": [
+     -0.002,
+     -0.003,
+     -0.002,
+     -0.002
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Glutathione(GSH)": {
+   "type": {
+    "released": [
+     0.018,
+     0.078,
+     0.01,
+     0.023
+    ],
+    "extended": [
+     0.007,
+     0.012,
+     0.003,
+     0.011
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.054,
+     0.089,
+     0.059,
+     0.014
+    ],
+    "extended": [
+     0.006,
+     0.007,
+     0.004,
+     0.004
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Ascorbate": {
+   "type": {
+    "released": [
+     -0.075,
+     0.064,
+     -0.075,
+     -0.037
+    ],
+    "extended": [
+     0.003,
+     0.012,
+     -0.0,
+     0.009
+    ],
+    "same_sign": 2,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     -0.014,
+     0.065,
+     -0.009,
+     -0.049
+    ],
+    "extended": [
+     0.004,
+     0.007,
+     0.002,
+     0.002
+    ],
+    "same_sign": 1,
+    "n": 4
+   }
+  },
+  "Glutamate": {
+   "type": {
+    "released": [
+     -0.007,
+     0.037,
+     -0.036,
+     0.008
+    ],
+    "extended": [
+     0.0,
+     0.002,
+     -0.001,
+     0.001
+    ],
+    "same_sign": 3,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.007,
+     0.019,
+     -0.009,
+     -0.008
+    ],
+    "extended": [
+     0.001,
+     0.001,
+     -0.0,
+     -0.0
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Palmitate(FA16:0)": {
+   "type": {
+    "released": [
+     0.041,
+     0.0,
+     0.029,
+     0.053
+    ],
+    "extended": [
+     0.008,
+     0.01,
+     0.003,
+     0.015
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.033,
+     0.026,
+     0.038,
+     0.041
+    ],
+    "extended": [
+     0.006,
+     0.005,
+     0.003,
+     0.007
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Stearate(FA18:0)": {
+   "type": {
+    "released": [
+     0.002,
+     -0.036,
+     0.008,
+     -0.039
+    ],
+    "extended": [
+     0.007,
+     0.01,
+     0.003,
+     0.012
+    ],
+    "same_sign": 2,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.014,
+     -0.002,
+     0.0,
+     -0.011
+    ],
+    "extended": [
+     0.005,
+     0.005,
+     0.003,
+     0.005
+    ],
+    "same_sign": 2,
+    "n": 4
+   }
+  },
+  "Oleate(FA18:1)": {
+   "type": {
+    "released": [
+     0.04,
+     0.052,
+     0.03,
+     0.028
+    ],
+    "extended": [
+     0.004,
+     0.006,
+     0.003,
+     0.006
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.035,
+     0.031,
+     0.03,
+     0.018
+    ],
+    "extended": [
+     0.003,
+     0.003,
+     0.002,
+     0.002
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  },
+  "Linoleate(FA18:2)": {
+   "type": {
+    "released": [
+     0.068,
+     0.065,
+     0.034,
+     0.019
+    ],
+    "extended": [
+     0.005,
+     0.007,
+     0.003,
+     0.006
+    ],
+    "same_sign": 4,
+    "n": 4
+   },
+   "edge": {
+    "released": [
+     0.071,
+     0.044,
+     0.036,
+     0.005
+    ],
+    "extended": [
+     0.003,
+     0.004,
+     0.002,
+     0.002
+    ],
+    "same_sign": 4,
+    "n": 4
+   }
+  }
+ },
+ "seconds": 279
+}

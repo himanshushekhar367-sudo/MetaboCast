@@ -1,0 +1,67 @@
+{
+ "per_section": {
+  "SMA_FMP_V11L12-109_A1": {
+   "median": 0.06870770454406738,
+   "n_detected": 442,
+   "subject": "mPD1",
+   "n_train_sections": 5,
+   "alpha": 300000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 48
+  },
+  "SMA_FMP_V11L12-109_B1": {
+   "median": 0.12025681138038635,
+   "n_detected": 497,
+   "subject": "mPD3",
+   "n_train_sections": 5,
+   "alpha": 300000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 44
+  },
+  "SMA_FMP_V11L12-109_C1": {
+   "median": 0.11880560219287872,
+   "n_detected": 534,
+   "subject": "mPD4",
+   "n_train_sections": 5,
+   "alpha": 300000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 44
+  },
+  "SMA_FMP_V11T16-085_A1": {
+   "median": 0.2886156439781189,
+   "n_detected": 1459,
+   "subject": "mPD1",
+   "n_train_sections": 5,
+   "alpha": 100000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 43
+  },
+  "SMA_FMP_V11T16-085_B1": {
+   "median": 0.2587819993495941,
+   "n_detected": 1466,
+   "subject": "mPD3",
+   "n_train_sections": 5,
+   "alpha": 300000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 43
+  },
+  "SMA_FMP_V11T16-085_C1": {
+   "median": 0.32086271047592163,
+   "n_detected": 1457,
+   "subject": "mPD4",
+   "n_train_sections": 5,
+   "alpha": 300000.0,
+   "alpha_selection": "leave-one-section-out",
+   "seconds": 41
+  }
+ },
+ "mean": 0.1960050786534945,
+ "sd": 0.0966171718881298,
+ "config": {
+  "n_hvg": 3000,
+  "use_kegg": false,
+  "estimator": "ensemble",
+  "upper_genes": true,
+  "hold_out": "section"
+ }
+}

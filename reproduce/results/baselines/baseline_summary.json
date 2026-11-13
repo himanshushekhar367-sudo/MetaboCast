@@ -1,0 +1,28 @@
+{
+ "scFEA": {
+  "n_ions": 39,
+  "n_sections_mean": 6.871794871794871,
+  "tool_median": -0.0032521073200265154,
+  "tool_mean": 0.0011036529801750137,
+  "tool_abs_median": 0.015640020215439403,
+  "mc_loso_median": 0.03990795835852623,
+  "mc_within_median": 0.25056275725364685,
+  "loso_wins": 29,
+  "within_wins": 37,
+  "p_loso": 0.00010459158875164576,
+  "p_within": 5.093170329928398e-11
+ },
+ "MGFEA": {
+  "n_ions": 39,
+  "n_sections_mean": 1.9743589743589745,
+  "tool_median": -0.010548827433533506,
+  "tool_mean": -0.00945532700355349,
+  "tool_abs_median": 0.03874040267766839,
+  "mc_loso_median": 0.03990795835852623,
+  "mc_within_median": 0.25056275725364685,
+  "loso_wins": 27,
+  "within_wins": 37,
+  "p_loso": 0.0016351219310308807,
+  "p_within": 3.637978807091713e-11
+ }
+}

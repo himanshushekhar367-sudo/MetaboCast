@@ -1,0 +1,17 @@
+final model: alpha=1e+07 (leave-one-section-out), 15620 genes, 2086 ions, 57s
+  LOSO BC_515_Section_1: median r 0.0737 (42s)
+  LOSO BC_515_Section_2: median r 0.0651 (49s)
+  LOSO BC_525: median r 0.0628 (44s)
+  LOSO BC_823: median r 0.0448 (58s)
+  LOSO LC_091: median r 0.0302 (53s)
+  LOSO LC_170: median r 0.0194 (60s)
+  LOSO LC_276: median r 0.0201 (48s)
+  section-level width, coverage on held-out BC_515_Section_1: 0.921
+  section-level width, coverage on held-out BC_515_Section_2: 0.777
+  section-level width, coverage on held-out BC_525: 0.882
+  section-level width, coverage on held-out BC_823: 0.897
+  section-level width, coverage on held-out LC_091: 0.834
+  section-level width, coverage on held-out LC_170: 0.915
+  section-level width, coverage on held-out LC_276: 0.910
+internal check (shared residuals), mean coverage on the left-out section: 0.877
+saved work/metabocast_model.pkl (35.0 MB); median within r 0.121, median transfer r 0.050

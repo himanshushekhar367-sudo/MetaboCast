@@ -1,0 +1,351 @@
+[
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "MetaboCast within-section accuracy against zero",
+  "unit": "section",
+  "n": 7,
+  "effect": 0.33666578360966276,
+  "ci": [
+   0.282684971924339,
+   0.3896281974656241
+  ],
+  "improved": "7/7 above 0",
+  "test": "exact two-sided Wilcoxon signed-rank (one-sample)",
+  "p": 0.015625
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "MetaboCast \u2212 coordinate-only kNN, all detected ions",
+  "unit": "section",
+  "n": 7,
+  "effect": 0.013253775026117052,
+  "ci": [
+   -0.00799818584429366,
+   0.03486418013593972
+  ],
+  "improved": "5/7",
+  "test": "exact two-sided Wilcoxon signed-rank",
+  "p": 0.296875
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "Whole-section \u2212 training-block ion panel, per-block accuracy",
+  "unit": "section",
+  "n": 7,
+  "effect": 0.0012697779706546317,
+  "ci": [
+   0.0006524066839899423,
+   0.001953456274100715
+  ],
+  "improved": "7/7",
+  "test": "exact two-sided Wilcoxon signed-rank",
+  "p": 0.015625
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "scFEA per-ion r against zero",
+  "unit": "ion",
+  "n": 39,
+  "effect": -0.0032521073200265,
+  "ci": [
+   -0.0069143677040592,
+   0.0093576510982642
+  ],
+  "improved": "19/39 above 0",
+  "test": "exact two-sided Wilcoxon signed-rank (one-sample)",
+  "p": 0.972487871767953
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "MGFEA per-ion r against zero",
+  "unit": "ion",
+  "n": 39,
+  "effect": -0.0105488274335335,
+  "ci": [
+   -0.029402699328798,
+   0.0145342031736981
+  ],
+  "improved": "16/39 above 0",
+  "test": "exact two-sided Wilcoxon signed-rank (one-sample)",
+  "p": 0.529596308748296
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "MetaboCast held-out-section per-ion r against zero (39 ions)",
+  "unit": "ion",
+  "n": 39,
+  "effect": 0.03990796,
+  "ci": [
+   0.010154588,
+   0.09009693
+  ],
+  "improved": "29/39 above 0",
+  "test": "exact two-sided Wilcoxon signed-rank (one-sample)",
+  "p": "1.47e-04"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "MetaboCast held-out-section accuracy against zero",
+  "unit": "section",
+  "n": 7,
+  "effect": 0.045207597581403594,
+  "ci": [
+   0.03035920938210828,
+   0.060468192611421855
+  ],
+  "improved": "7/7 above 0",
+  "test": "exact two-sided Wilcoxon signed-rank (one-sample)",
+  "p": 0.015625
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "MetaboCast held-out-patient accuracy against zero",
+  "unit": "section",
+  "n": 7,
+  "effect": 0.04247513599693775,
+  "ci": [
+   0.028936881572008133,
+   0.05776007726256337
+  ],
+  "improved": "7/7 above 0",
+  "test": "exact two-sided Wilcoxon signed-rank (one-sample)",
+  "p": 0.015625
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "Transcriptome-only \u2212 H&E-only, within sections",
+  "unit": "section",
+  "n": 6,
+  "effect": 0.08018146682667886,
+  "ci": [
+   0.050507626189404256,
+   0.1088656947044709
+  ],
+  "improved": "6/6",
+  "test": "exact two-sided Wilcoxon signed-rank",
+  "p": 0.03125
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "H&E-only \u2212 H&E-only with shuffled features, held-out sections",
+  "unit": "section",
+  "n": 6,
+  "effect": 0.14498333333333333,
+  "ci": [
+   0.09546666666666666,
+   0.20049999999999998
+  ],
+  "improved": "6/6",
+  "test": "exact two-sided Wilcoxon signed-rank",
+  "p": 0.03125
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "Relative interval width vs per-ion accuracy (Fig. 4b)",
+  "unit": "ion\u2013section pair",
+  "n": 14381,
+  "effect": -0.6542726988586461,
+  "ci": "within sections -0.73 to -0.46",
+  "improved": "n/a",
+  "test": "Spearman correlation test",
+  "p": "< 1e-100 in each section"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "Moran's I vs per-ion within-section accuracy (Additional file 1: Figure S5a)",
+  "unit": "ion\u2013section pair",
+  "n": 8197,
+  "effect": 0.7888031124611451,
+  "ci": "within sections +0.71 to +0.84",
+  "improved": "n/a",
+  "test": "Spearman correlation test",
+  "p": "< 1e-100 in each section"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "LC_091 measured vs held-out predicted, EPA [M\u2212H]\u2212",
+  "unit": "spot",
+  "n": 2141,
+  "effect": 0.6388977561256147,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 35)",
+  "p": "3.25e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "LC_091 measured vs held-out predicted, xanthine [M\u2212H]\u2212",
+  "unit": "spot",
+  "n": 2141,
+  "effect": 0.7666133936830568,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 18)",
+  "p": "1.85e-04"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "LC_091 measured vs held-out predicted, fumarate [M\u2212H]\u2212",
+  "unit": "spot",
+  "n": 2141,
+  "effect": 0.594294833177698,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 24)",
+  "p": 0.0024261870030454296
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "LC_091 measured vs held-out predicted, tryptophan [M\u2212H]\u2212",
+  "unit": "spot",
+  "n": 2141,
+  "effect": -0.0029585111609936395,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 1608)",
+  "p": 0.9056243816642923
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "FMP m/z 557.2, substantia nigra V11T16-085_A1 (held-out section), measured vs predicted",
+  "unit": "spot",
+  "n": 2590,
+  "effect": 0.4420771622297083,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 39)",
+  "p": 0.004567372716440406
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "FMP m/z 557.2, striatum V11L12-109_A1 (held-out section), measured vs predicted",
+  "unit": "spot",
+  "n": 2206,
+  "effect": -0.011453326049281232,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 979)",
+  "p": 0.7204066620841862
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Glutathione(GSH) vs ITGAM (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": -0.7161757926415204,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 36)",
+  "p": "8.35e-07"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Arachidonate(FA20:4) vs BCL2 (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": 0.6269824452264476,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 24)",
+  "p": 0.001127266197470501
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted DHA(FA22:6) vs PCNA (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": 0.6064766480621153,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 38)",
+  "p": "5.03e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Palmitate(FA16:0) vs CD68 (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": 0.730824602292756,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 26)",
+  "p": "2.46e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Stearate(FA18:0) vs CD68 (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": 0.6371301812834347,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 38)",
+  "p": "1.88e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Glutamate vs ITGAM (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": -0.594029833034701,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 45)",
+  "p": "1.73e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Hexose vs PCNA (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": -0.6362889730281264,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 37)",
+  "p": "2.50e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Inosine vs PCNA (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": -0.6417553282717152,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 26)",
+  "p": "4.25e-04"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Taurine vs ACTA2 (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": 0.47588057062479183,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 189)",
+  "p": "4.34e-12"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted N-acetylaspartate vs PCNA (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": 0.6836754700836495,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 31)",
+  "p": "2.51e-05"
+ },
+ {
+  "family": "G. Further tests, reported unadjusted",
+  "comparison": "GBM CytAssist, predicted Urate vs BCL2 (strongest marker for this ion)",
+  "unit": "spot",
+  "n": 5756,
+  "effect": -0.7204096295137538,
+  "ci": "n/a",
+  "improved": "n/a",
+  "test": "Dutilleul modified t-test on ranks (effective n 22)",
+  "p": "1.44e-04"
+ }
+]

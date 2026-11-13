@@ -1,0 +1,8 @@
+metabolite,expected_N_to_T,H&E-only concordant,HCC-1 H&E delta,HCC-2 H&E delta,HCC-3 H&E delta,HCC-4 H&E delta
+Glutathione(GSH),up,4/4,0.2369,0.2644,0.0981,0.1406
+Ascorbate,up,2/4,-0.0351,0.1446,0.0947,-0.0678
+Arachidonate(FA20:4),up,3/4,0.4095,0.4739,-0.1556,0.3761
+DHA(FA22:6),up,3/4,0.1724,0.0238,-0.0422,0.0964
+Palmitate(FA16:0),down,2/4,-0.0642,0.0371,-0.1418,0.1435
+Stearate(FA18:0),down,2/4,-0.0104,0.0871,-0.1494,0.168
+Hexose,down,4/4,-0.3197,-0.115,-0.0406,-0.1049

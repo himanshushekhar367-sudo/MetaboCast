@@ -1,0 +1,31 @@
+{
+ "per_section": {
+  "SMA_DHB_V11L12-038_A1": {
+   "median": 0.3210519552230835,
+   "n_detected": 2331,
+   "subject": "mPD3",
+   "n_train_sections": 1,
+   "alpha": 100000.0,
+   "alpha_selection": "leave-one-spatial-block-out (pooled)",
+   "seconds": 18
+  },
+  "SMA_DHB_V11L12-038_B1": {
+   "median": 0.32103651762008667,
+   "n_detected": 2352,
+   "subject": "mPD3",
+   "n_train_sections": 1,
+   "alpha": 30000.0,
+   "alpha_selection": "leave-one-spatial-block-out (pooled)",
+   "seconds": 16
+  }
+ },
+ "mean": 0.3210442364215851,
+ "sd": 7.718801498413086e-06,
+ "config": {
+  "n_hvg": 3000,
+  "use_kegg": true,
+  "estimator": "ensemble",
+  "upper_genes": true,
+  "hold_out": "section"
+ }
+}

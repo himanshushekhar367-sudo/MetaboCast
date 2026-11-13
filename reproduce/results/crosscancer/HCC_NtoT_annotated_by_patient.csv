@@ -1,0 +1,225 @@
+patient,mz,annotation,within_section_r,transfer_r,tier,ambiguous,delta_NtoT
+HCC-1,255.2311,FA16:0 [M-H]-,0.493,-0.064,within-section only,False,0.04195737838745117
+HCC-1,283.2625,FA18:0 [M-H]-,0.459,0.009,within-section only,False,-0.0017032623291015625
+HCC-1,281.2471,FA18:1 [M-H]-,0.444,0.012,within-section only,False,0.042908668518066406
+HCC-1,303.2323,FA20:4(AA) [M-H]-,0.591,0.219,transfer-supported,False,0.07457566261291504
+HCC-1,885.549,PI38:4 [M-H]-,0.546,0.169,within-section only,False,0.008140802383422852
+HCC-1,175.0228,Ascorbate [M-H]-,0.594,0.018,within-section only,False,-0.10565567016601562
+HCC-1,215.032,Hexose [M+Cl]-,0.575,0.377,transfer-supported,False,-0.011062860488891602
+HCC-1,279.2317,FA18:2 [M-H]-,0.413,-0.007,within-section only,False,0.06822896003723145
+HCC-1,788.5433,PS36:1 [M-H]-; PE36:2 [M+HCOO]-,0.558,0.298,transfer-supported,True,-0.004849433898925781
+HCC-1,794.5445,PC34:1 [M+Cl]-,0.608,0.284,transfer-supported,False,0.036884307861328125
+HCC-1,742.5372,PE36:2 [M-H]-,0.657,0.445,transfer-supported,False,0.012947320938110352
+HCC-1,766.5349,PE38:4 [M-H]-,0.624,0.195,within-section only,False,0.04198265075683594
+HCC-1,572.4801,Cer d18:1/16:0 [M+Cl]-,0.667,0.365,transfer-supported,False,0.013995647430419922
+HCC-1,820.5591,PC36:2 [M+Cl]-,0.591,0.259,transfer-supported,False,0.00026035308837890625
+HCC-1,267.0726,Inosine [M-H]-,0.497,0.257,transfer-supported,False,-0.0413057804107666
+HCC-1,124.0072,Taurine [M-H]-; Alanine [M+Cl]-,0.522,0.266,transfer-supported,True,-0.009317636489868164
+HCC-1,243.0604,Kynurenine [M+Cl]-,0.428,0.037,within-section only,False,-0.040547847747802734
+HCC-1,146.0446,Glutamate [M-H]-,0.402,0.056,within-section only,False,-0.011279106140136719
+HCC-1,135.031,Hypoxanthine [M-H]-; Lactate [M+HCOO]-,0.482,0.157,within-section only,True,-0.015444397926330566
+HCC-1,167.0207,Urate [M-H]-; Asparagine [M+Cl]-,0.486,0.326,transfer-supported,True,0.0025877952575683594
+HCC-1,737.535,SM d18:1/16:0 [M+Cl]-,0.544,0.249,transfer-supported,False,-0.0025565624237060547
+HCC-1,187.0064,Xanthine [M+Cl]-,0.574,0.402,transfer-supported,False,-0.023571372032165527
+HCC-1,160.0654,Proline [M+HCOO]-,0.395,-0.039,within-section only,False,-0.018101871013641357
+HCC-1,747.5177,PG34:1 [M-H]-,0.576,0.282,transfer-supported,False,0.018963098526000977
+HCC-1,181.0704,Lysine [M+Cl]-,0.335,0.112,within-section only,False,0.023891419172286987
+HCC-1,812.5424,PE38:4 [M+HCOO]-,0.57,0.204,transfer-supported,False,-0.0025328397750854492
+HCC-1,844.5611,PC38:4 [M+Cl]-,0.568,0.171,within-section only,False,-0.00826573371887207
+HCC-1,145.0601,Glutamine [M-H]-,0.372,-0.112,within-section only,False,0.005831122398376465
+HCC-1,179.055,Hexose [M-H]-,0.508,0.296,transfer-supported,False,0.003484368324279785
+HCC-1,327.2314,FA22:6(DHA) [M-H]-,0.536,0.263,transfer-supported,False,0.0612177848815918
+HCC-1,151.0251,Xanthine [M-H]-,0.409,0.01,within-section only,False,0.01138317584991455
+HCC-1,306.0756,Glutathione [M-H]-,0.586,0.132,within-section only,False,-0.0017699003219604492
+HCC-1,115.0032,Fumarate [M-H]-,0.505,0.026,within-section only,False,-0.05986940860748291
+HCC-1,226.9953,Citrate/isocitrate [M+Cl]-,0.396,0.08,within-section only,False,-0.01952064037322998
+HCC-1,154.0613,Histidine [M-H]-,0.4,0.135,within-section only,False,0.012114405632019043
+HCC-1,216.0368,Tyrosine [M+Cl]-,0.442,0.3,transfer-supported,False,-0.018862485885620117
+HCC-1,132.0297,Aspartate [M-H]-,0.451,0.053,within-section only,False,-0.006685376167297363
+HCC-1,301.2169,FA20:5(EPA) [M-H]-,0.437,0.051,within-section only,False,0.02903759479522705
+HCC-1,346.0543,AMP [M-H]-,0.536,0.156,within-section only,False,-0.03768885135650635
+HCC-1,893.7309,TAG52:2 [M+Cl]-,0.261,0.239,transfer-supported,False,0.06349700689315796
+HCC-1,302.0651,Adenosine [M+Cl]-,0.428,0.216,transfer-supported,False,-0.0310479998588562
+HCC-1,804.5693,PC34:1 [M+HCOO]-,0.451,0.274,transfer-supported,False,0.02193617820739746
+HCC-1,530.3004,LPC16:0 [M+Cl]-,0.443,0.204,transfer-supported,False,0.015113651752471924
+HCC-1,365.3412,FA24:1 [M-H]-,0.506,0.272,transfer-supported,False,0.04013019800186157
+HCC-1,140.0115,Serine [M+Cl]-,0.357,0.006,within-section only,False,-0.019305408000946045
+HCC-1,117.0186,Succinate [M-H]-,0.431,0.18,within-section only,False,-0.02229723334312439
+HCC-1,134.0465,Alanine [M+HCOO]-,0.491,0.212,transfer-supported,False,-0.0367092490196228
+HCC-1,191.0183,Citrate/isocitrate [M-H]-; aKG [M+HCOO]-,0.337,0.001,within-section only,True,-0.013410568237304688
+HCC-1,830.5838,PC36:2 [M+HCOO]-,0.411,0.183,within-section only,False,-0.014888525009155273
+HCC-1,303.0496,Inosine [M+Cl]-,0.281,0.209,transfer-supported,False,-0.026729971170425415
+HCC-1,323.0252,UMP [M-H]-,0.37,0.128,within-section only,False,-0.007960498332977295
+HCC-1,171.0065,Hypoxanthine [M+Cl]-,0.427,0.088,within-section only,False,-0.010159730911254883
+HCC-1,174.0397,N-acetylaspartate [M-H]-,0.427,0.182,within-section only,False,-0.0048469603061676025
+HCC-1,292.0707,Glycerophosphocholine [M+Cl]-,0.362,0.149,within-section only,False,-0.03312075138092041
+HCC-1,202.1103,Acetylcarnitine [M-H]-,0.342,0.172,within-section only,False,0.003081396222114563
+HCC-1,921.5201,PI38:4 [M+Cl]-,0.442,0.342,transfer-supported,False,-0.010420501232147217
+HCC-2,255.2311,FA16:0 [M-H]-,0.493,-0.064,within-section only,False,-0.051133155822753906
+HCC-2,283.2625,FA18:0 [M-H]-,0.459,0.009,within-section only,False,-0.045928001403808594
+HCC-2,281.2471,FA18:1 [M-H]-,0.444,0.012,within-section only,False,0.0404810905456543
+HCC-2,303.2323,FA20:4(AA) [M-H]-,0.591,0.219,transfer-supported,False,-0.012033700942993164
+HCC-2,885.549,PI38:4 [M-H]-,0.546,0.169,within-section only,False,-0.01210331916809082
+HCC-2,175.0228,Ascorbate [M-H]-,0.594,0.018,within-section only,False,0.06475448608398438
+HCC-2,215.032,Hexose [M+Cl]-,0.575,0.377,transfer-supported,False,-0.012151479721069336
+HCC-2,279.2317,FA18:2 [M-H]-,0.413,-0.007,within-section only,False,0.026688098907470703
+HCC-2,788.5433,PS36:1 [M-H]-; PE36:2 [M+HCOO]-,0.558,0.298,transfer-supported,True,-0.08182907104492188
+HCC-2,794.5445,PC34:1 [M+Cl]-,0.608,0.284,transfer-supported,False,-0.05918407440185547
+HCC-2,742.5372,PE36:2 [M-H]-,0.657,0.445,transfer-supported,False,-0.10674357414245605
+HCC-2,766.5349,PE38:4 [M-H]-,0.624,0.195,within-section only,False,0.04539990425109863
+HCC-2,572.4801,Cer d18:1/16:0 [M+Cl]-,0.667,0.365,transfer-supported,False,-0.06937098503112793
+HCC-2,820.5591,PC36:2 [M+Cl]-,0.591,0.259,transfer-supported,False,-0.0579981803894043
+HCC-2,267.0726,Inosine [M-H]-,0.497,0.257,transfer-supported,False,-0.0621645450592041
+HCC-2,124.0072,Taurine [M-H]-; Alanine [M+Cl]-,0.522,0.266,transfer-supported,True,0.062401771545410156
+HCC-2,243.0604,Kynurenine [M+Cl]-,0.428,0.037,within-section only,False,-0.012290000915527344
+HCC-2,146.0446,Glutamate [M-H]-,0.402,0.056,within-section only,False,0.047217369079589844
+HCC-2,135.031,Hypoxanthine [M-H]-; Lactate [M+HCOO]-,0.482,0.157,within-section only,True,0.09084832668304443
+HCC-2,167.0207,Urate [M-H]-; Asparagine [M+Cl]-,0.486,0.326,transfer-supported,True,0.02481842041015625
+HCC-2,737.535,SM d18:1/16:0 [M+Cl]-,0.544,0.249,transfer-supported,False,0.0054705142974853516
+HCC-2,187.0064,Xanthine [M+Cl]-,0.574,0.402,transfer-supported,False,-0.06261801719665527
+HCC-2,160.0654,Proline [M+HCOO]-,0.395,-0.039,within-section only,False,0.03943777084350586
+HCC-2,747.5177,PG34:1 [M-H]-,0.576,0.282,transfer-supported,False,-0.0385746955871582
+HCC-2,181.0704,Lysine [M+Cl]-,0.335,0.112,within-section only,False,0.02408251166343689
+HCC-2,812.5424,PE38:4 [M+HCOO]-,0.57,0.204,transfer-supported,False,-0.0024290084838867188
+HCC-2,844.5611,PC38:4 [M+Cl]-,0.568,0.171,within-section only,False,0.08142328262329102
+HCC-2,145.0601,Glutamine [M-H]-,0.372,-0.112,within-section only,False,0.05085563659667969
+HCC-2,179.055,Hexose [M-H]-,0.508,0.296,transfer-supported,False,-0.0466536283493042
+HCC-2,327.2314,FA22:6(DHA) [M-H]-,0.536,0.263,transfer-supported,False,-0.010747313499450684
+HCC-2,151.0251,Xanthine [M-H]-,0.409,0.01,within-section only,False,0.24951857328414917
+HCC-2,306.0756,Glutathione [M-H]-,0.586,0.132,within-section only,False,0.006536722183227539
+HCC-2,115.0032,Fumarate [M-H]-,0.505,0.026,within-section only,False,0.03232717514038086
+HCC-2,226.9953,Citrate/isocitrate [M+Cl]-,0.396,0.08,within-section only,False,0.049954891204833984
+HCC-2,154.0613,Histidine [M-H]-,0.4,0.135,within-section only,False,0.06268799304962158
+HCC-2,216.0368,Tyrosine [M+Cl]-,0.442,0.3,transfer-supported,False,-0.057408154010772705
+HCC-2,132.0297,Aspartate [M-H]-,0.451,0.053,within-section only,False,0.03629004955291748
+HCC-2,301.2169,FA20:5(EPA) [M-H]-,0.437,0.051,within-section only,False,-0.000849604606628418
+HCC-2,346.0543,AMP [M-H]-,0.536,0.156,within-section only,False,-0.03303658962249756
+HCC-2,893.7309,TAG52:2 [M+Cl]-,0.261,0.239,transfer-supported,False,0.009577929973602295
+HCC-2,302.0651,Adenosine [M+Cl]-,0.428,0.216,transfer-supported,False,-0.21569180488586426
+HCC-2,804.5693,PC34:1 [M+HCOO]-,0.451,0.274,transfer-supported,False,-0.061855316162109375
+HCC-2,530.3004,LPC16:0 [M+Cl]-,0.443,0.204,transfer-supported,False,-0.07601988315582275
+HCC-2,365.3412,FA24:1 [M-H]-,0.506,0.272,transfer-supported,False,0.05867272615432739
+HCC-2,140.0115,Serine [M+Cl]-,0.357,0.006,within-section only,False,-0.016109168529510498
+HCC-2,117.0186,Succinate [M-H]-,0.431,0.18,within-section only,False,0.022354602813720703
+HCC-2,134.0465,Alanine [M+HCOO]-,0.491,0.212,transfer-supported,False,-0.023175448179244995
+HCC-2,191.0183,Citrate/isocitrate [M-H]-; aKG [M+HCOO]-,0.337,0.001,within-section only,True,0.02616983652114868
+HCC-2,830.5838,PC36:2 [M+HCOO]-,0.411,0.183,within-section only,False,-0.08050030469894409
+HCC-2,303.0496,Inosine [M+Cl]-,0.281,0.209,transfer-supported,False,0.018929362297058105
+HCC-2,323.0252,UMP [M-H]-,0.37,0.128,within-section only,False,0.024177730083465576
+HCC-2,171.0065,Hypoxanthine [M+Cl]-,0.427,0.088,within-section only,False,0.052679210901260376
+HCC-2,174.0397,N-acetylaspartate [M-H]-,0.427,0.182,within-section only,False,0.05188390612602234
+HCC-2,292.0707,Glycerophosphocholine [M+Cl]-,0.362,0.149,within-section only,False,-0.015697568655014038
+HCC-2,202.1103,Acetylcarnitine [M-H]-,0.342,0.172,within-section only,False,0.03775654733181
+HCC-2,921.5201,PI38:4 [M+Cl]-,0.442,0.342,transfer-supported,False,-0.04939305782318115
+HCC-3,255.2311,FA16:0 [M-H]-,0.493,-0.064,within-section only,False,0.02766275405883789
+HCC-3,283.2625,FA18:0 [M-H]-,0.459,0.009,within-section only,False,0.01267242431640625
+HCC-3,281.2471,FA18:1 [M-H]-,0.444,0.012,within-section only,False,0.03390836715698242
+HCC-3,303.2323,FA20:4(AA) [M-H]-,0.591,0.219,transfer-supported,False,0.18713998794555664
+HCC-3,885.549,PI38:4 [M-H]-,0.546,0.169,within-section only,False,0.03750491142272949
+HCC-3,175.0228,Ascorbate [M-H]-,0.594,0.018,within-section only,False,-0.09036135673522949
+HCC-3,215.032,Hexose [M+Cl]-,0.575,0.377,transfer-supported,False,-0.043546438217163086
+HCC-3,279.2317,FA18:2 [M-H]-,0.413,-0.007,within-section only,False,0.040657758712768555
+HCC-3,788.5433,PS36:1 [M-H]-; PE36:2 [M+HCOO]-,0.558,0.298,transfer-supported,True,0.019398927688598633
+HCC-3,794.5445,PC34:1 [M+Cl]-,0.608,0.284,transfer-supported,False,0.07655191421508789
+HCC-3,742.5372,PE36:2 [M-H]-,0.657,0.445,transfer-supported,False,0.06518149375915527
+HCC-3,766.5349,PE38:4 [M-H]-,0.624,0.195,within-section only,False,0.061896562576293945
+HCC-3,572.4801,Cer d18:1/16:0 [M+Cl]-,0.667,0.365,transfer-supported,False,0.08897089958190918
+HCC-3,820.5591,PC36:2 [M+Cl]-,0.591,0.259,transfer-supported,False,0.07013630867004395
+HCC-3,267.0726,Inosine [M-H]-,0.497,0.257,transfer-supported,False,-0.058530330657958984
+HCC-3,124.0072,Taurine [M-H]-; Alanine [M+Cl]-,0.522,0.266,transfer-supported,True,-0.04278254508972168
+HCC-3,243.0604,Kynurenine [M+Cl]-,0.428,0.037,within-section only,False,-0.025778532028198242
+HCC-3,146.0446,Glutamate [M-H]-,0.402,0.056,within-section only,False,-0.044748544692993164
+HCC-3,135.031,Hypoxanthine [M-H]-; Lactate [M+HCOO]-,0.482,0.157,within-section only,True,-0.04028618335723877
+HCC-3,167.0207,Urate [M-H]-; Asparagine [M+Cl]-,0.486,0.326,transfer-supported,True,-0.038948774337768555
+HCC-3,737.535,SM d18:1/16:0 [M+Cl]-,0.544,0.249,transfer-supported,False,0.0021436214447021484
+HCC-3,187.0064,Xanthine [M+Cl]-,0.574,0.402,transfer-supported,False,-0.06590938568115234
+HCC-3,160.0654,Proline [M+HCOO]-,0.395,-0.039,within-section only,False,-0.023041129112243652
+HCC-3,747.5177,PG34:1 [M-H]-,0.576,0.282,transfer-supported,False,-0.002082347869873047
+HCC-3,181.0704,Lysine [M+Cl]-,0.335,0.112,within-section only,False,0.0005951523780822754
+HCC-3,812.5424,PE38:4 [M+HCOO]-,0.57,0.204,transfer-supported,False,0.004458189010620117
+HCC-3,844.5611,PC38:4 [M+Cl]-,0.568,0.171,within-section only,False,-0.018146276473999023
+HCC-3,145.0601,Glutamine [M-H]-,0.372,-0.112,within-section only,False,-0.01626753807067871
+HCC-3,179.055,Hexose [M-H]-,0.508,0.296,transfer-supported,False,-0.010775446891784668
+HCC-3,327.2314,FA22:6(DHA) [M-H]-,0.536,0.263,transfer-supported,False,0.18830478191375732
+HCC-3,151.0251,Xanthine [M-H]-,0.409,0.01,within-section only,False,-0.04492717981338501
+HCC-3,306.0756,Glutathione [M-H]-,0.586,0.132,within-section only,False,-0.00045359134674072266
+HCC-3,115.0032,Fumarate [M-H]-,0.505,0.026,within-section only,False,-0.056090354919433594
+HCC-3,226.9953,Citrate/isocitrate [M+Cl]-,0.396,0.08,within-section only,False,-0.03849363327026367
+HCC-3,154.0613,Histidine [M-H]-,0.4,0.135,within-section only,False,-0.007971048355102539
+HCC-3,216.0368,Tyrosine [M+Cl]-,0.442,0.3,transfer-supported,False,-0.03118377923965454
+HCC-3,132.0297,Aspartate [M-H]-,0.451,0.053,within-section only,False,-0.03550255298614502
+HCC-3,301.2169,FA20:5(EPA) [M-H]-,0.437,0.051,within-section only,False,0.005917847156524658
+HCC-3,346.0543,AMP [M-H]-,0.536,0.156,within-section only,False,-0.03322803974151611
+HCC-3,893.7309,TAG52:2 [M+Cl]-,0.261,0.239,transfer-supported,False,-0.005493223667144775
+HCC-3,302.0651,Adenosine [M+Cl]-,0.428,0.216,transfer-supported,False,0.012099802494049072
+HCC-3,804.5693,PC34:1 [M+HCOO]-,0.451,0.274,transfer-supported,False,0.01907646656036377
+HCC-3,530.3004,LPC16:0 [M+Cl]-,0.443,0.204,transfer-supported,False,0.018053710460662842
+HCC-3,365.3412,FA24:1 [M-H]-,0.506,0.272,transfer-supported,False,0.029720664024353027
+HCC-3,140.0115,Serine [M+Cl]-,0.357,0.006,within-section only,False,-0.008806884288787842
+HCC-3,117.0186,Succinate [M-H]-,0.431,0.18,within-section only,False,-0.025482922792434692
+HCC-3,134.0465,Alanine [M+HCOO]-,0.491,0.212,transfer-supported,False,-0.027051031589508057
+HCC-3,191.0183,Citrate/isocitrate [M-H]-; aKG [M+HCOO]-,0.337,0.001,within-section only,True,-0.039553046226501465
+HCC-3,830.5838,PC36:2 [M+HCOO]-,0.411,0.183,within-section only,False,0.009332418441772461
+HCC-3,303.0496,Inosine [M+Cl]-,0.281,0.209,transfer-supported,False,-0.038441210985183716
+HCC-3,323.0252,UMP [M-H]-,0.37,0.128,within-section only,False,-0.0073747336864471436
+HCC-3,171.0065,Hypoxanthine [M+Cl]-,0.427,0.088,within-section only,False,-0.06189563870429993
+HCC-3,174.0397,N-acetylaspartate [M-H]-,0.427,0.182,within-section only,False,-0.0462285578250885
+HCC-3,292.0707,Glycerophosphocholine [M+Cl]-,0.362,0.149,within-section only,False,-0.026976704597473145
+HCC-3,202.1103,Acetylcarnitine [M-H]-,0.342,0.172,within-section only,False,3.097951412200928e-05
+HCC-3,921.5201,PI38:4 [M+Cl]-,0.442,0.342,transfer-supported,False,0.025033175945281982
+HCC-4,255.2311,FA16:0 [M-H]-,0.493,-0.064,within-section only,False,0.07519340515136719
+HCC-4,283.2625,FA18:0 [M-H]-,0.459,0.009,within-section only,False,-0.04318094253540039
+HCC-4,281.2471,FA18:1 [M-H]-,0.444,0.012,within-section only,False,0.037021636962890625
+HCC-4,303.2323,FA20:4(AA) [M-H]-,0.591,0.219,transfer-supported,False,0.050200700759887695
+HCC-4,885.549,PI38:4 [M-H]-,0.546,0.169,within-section only,False,-0.028121471405029297
+HCC-4,175.0228,Ascorbate [M-H]-,0.594,0.018,within-section only,False,-0.04534626007080078
+HCC-4,215.032,Hexose [M+Cl]-,0.575,0.377,transfer-supported,False,-0.0996866226196289
+HCC-4,279.2317,FA18:2 [M-H]-,0.413,-0.007,within-section only,False,0.031635284423828125
+HCC-4,788.5433,PS36:1 [M-H]-; PE36:2 [M+HCOO]-,0.558,0.298,transfer-supported,True,-0.030408143997192383
+HCC-4,794.5445,PC34:1 [M+Cl]-,0.608,0.284,transfer-supported,False,0.1139230728149414
+HCC-4,742.5372,PE36:2 [M-H]-,0.657,0.445,transfer-supported,False,0.12423110008239746
+HCC-4,766.5349,PE38:4 [M-H]-,0.624,0.195,within-section only,False,0.08122467994689941
+HCC-4,572.4801,Cer d18:1/16:0 [M+Cl]-,0.667,0.365,transfer-supported,False,0.032999277114868164
+HCC-4,820.5591,PC36:2 [M+Cl]-,0.591,0.259,transfer-supported,False,0.052931785583496094
+HCC-4,267.0726,Inosine [M-H]-,0.497,0.257,transfer-supported,False,-0.15054988861083984
+HCC-4,124.0072,Taurine [M-H]-; Alanine [M+Cl]-,0.522,0.266,transfer-supported,True,-0.042264461517333984
+HCC-4,243.0604,Kynurenine [M+Cl]-,0.428,0.037,within-section only,False,-0.07036733627319336
+HCC-4,146.0446,Glutamate [M-H]-,0.402,0.056,within-section only,False,0.011663436889648438
+HCC-4,135.031,Hypoxanthine [M-H]-; Lactate [M+HCOO]-,0.482,0.157,within-section only,True,-0.011115312576293945
+HCC-4,167.0207,Urate [M-H]-; Asparagine [M+Cl]-,0.486,0.326,transfer-supported,True,-0.014386415481567383
+HCC-4,737.535,SM d18:1/16:0 [M+Cl]-,0.544,0.249,transfer-supported,False,-0.04049992561340332
+HCC-4,187.0064,Xanthine [M+Cl]-,0.574,0.402,transfer-supported,False,-0.19007420539855957
+HCC-4,160.0654,Proline [M+HCOO]-,0.395,-0.039,within-section only,False,-0.04391658306121826
+HCC-4,747.5177,PG34:1 [M-H]-,0.576,0.282,transfer-supported,False,0.07135152816772461
+HCC-4,181.0704,Lysine [M+Cl]-,0.335,0.112,within-section only,False,0.02088785171508789
+HCC-4,812.5424,PE38:4 [M+HCOO]-,0.57,0.204,transfer-supported,False,-0.055438995361328125
+HCC-4,844.5611,PC38:4 [M+Cl]-,0.568,0.171,within-section only,False,-0.07679629325866699
+HCC-4,145.0601,Glutamine [M-H]-,0.372,-0.112,within-section only,False,0.03099346160888672
+HCC-4,179.055,Hexose [M-H]-,0.508,0.296,transfer-supported,False,-0.040032267570495605
+HCC-4,327.2314,FA22:6(DHA) [M-H]-,0.536,0.263,transfer-supported,False,0.029706120491027832
+HCC-4,151.0251,Xanthine [M-H]-,0.409,0.01,within-section only,False,-0.01007610559463501
+HCC-4,306.0756,Glutathione [M-H]-,0.586,0.132,within-section only,False,0.03548252582550049
+HCC-4,115.0032,Fumarate [M-H]-,0.505,0.026,within-section only,False,-0.020353198051452637
+HCC-4,226.9953,Citrate/isocitrate [M+Cl]-,0.396,0.08,within-section only,False,-0.04415905475616455
+HCC-4,154.0613,Histidine [M-H]-,0.4,0.135,within-section only,False,0.05147671699523926
+HCC-4,216.0368,Tyrosine [M+Cl]-,0.442,0.3,transfer-supported,False,-0.11449795961380005
+HCC-4,132.0297,Aspartate [M-H]-,0.451,0.053,within-section only,False,0.03531920909881592
+HCC-4,301.2169,FA20:5(EPA) [M-H]-,0.437,0.051,within-section only,False,0.008238792419433594
+HCC-4,346.0543,AMP [M-H]-,0.536,0.156,within-section only,False,0.028436243534088135
+HCC-4,893.7309,TAG52:2 [M+Cl]-,0.261,0.239,transfer-supported,False,-0.03521621227264404
+HCC-4,302.0651,Adenosine [M+Cl]-,0.428,0.216,transfer-supported,False,-0.011400938034057617
+HCC-4,804.5693,PC34:1 [M+HCOO]-,0.451,0.274,transfer-supported,False,0.05327141284942627
+HCC-4,530.3004,LPC16:0 [M+Cl]-,0.443,0.204,transfer-supported,False,0.04535895586013794
+HCC-4,365.3412,FA24:1 [M-H]-,0.506,0.272,transfer-supported,False,0.04931771755218506
+HCC-4,140.0115,Serine [M+Cl]-,0.357,0.006,within-section only,False,-0.012085437774658203
+HCC-4,117.0186,Succinate [M-H]-,0.431,0.18,within-section only,False,0.02595728635787964
+HCC-4,134.0465,Alanine [M+HCOO]-,0.491,0.212,transfer-supported,False,-0.004761397838592529
+HCC-4,191.0183,Citrate/isocitrate [M-H]-; aKG [M+HCOO]-,0.337,0.001,within-section only,True,-0.023212015628814697
+HCC-4,830.5838,PC36:2 [M+HCOO]-,0.411,0.183,within-section only,False,-0.005823016166687012
+HCC-4,303.0496,Inosine [M+Cl]-,0.281,0.209,transfer-supported,False,-0.09104198217391968
+HCC-4,323.0252,UMP [M-H]-,0.37,0.128,within-section only,False,0.01989153027534485
+HCC-4,171.0065,Hypoxanthine [M+Cl]-,0.427,0.088,within-section only,False,0.023784488439559937
+HCC-4,174.0397,N-acetylaspartate [M-H]-,0.427,0.182,within-section only,False,0.04201570153236389
+HCC-4,292.0707,Glycerophosphocholine [M+Cl]-,0.362,0.149,within-section only,False,-0.02443745732307434
+HCC-4,202.1103,Acetylcarnitine [M-H]-,0.342,0.172,within-section only,False,0.03903026878833771
+HCC-4,921.5201,PI38:4 [M+Cl]-,0.442,0.342,transfer-supported,False,0.093844473361969

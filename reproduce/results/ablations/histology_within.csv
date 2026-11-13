@@ -1,0 +1,13 @@
+protocol,sample,model,n_ions,median_spearman
+within_sample_5fold,BC_515_Section_1,MetaboCast,1000,0.34699931345591106
+within_sample_5fold,BC_515_Section_1,MetaboCast+H&E,1000,0.3578265306224703
+within_sample_5fold,BC_515_Section_2,MetaboCast,1000,0.25829859408281974
+within_sample_5fold,BC_515_Section_2,MetaboCast+H&E,1000,0.27651026298632175
+within_sample_5fold,BC_823,MetaboCast,1000,0.27229466556225
+within_sample_5fold,BC_823,MetaboCast+H&E,1000,0.3228452956719182
+within_sample_5fold,LC_091,MetaboCast,1000,0.21660962230505415
+within_sample_5fold,LC_091,MetaboCast+H&E,1000,0.24092260081954503
+within_sample_5fold,LC_170,MetaboCast,1000,0.3854088274439694
+within_sample_5fold,LC_170,MetaboCast+H&E,1000,0.41904155119607484
+within_sample_5fold,LC_276,MetaboCast,1000,0.20587777811006897
+within_sample_5fold,LC_276,MetaboCast+H&E,1000,0.24602886666529944
