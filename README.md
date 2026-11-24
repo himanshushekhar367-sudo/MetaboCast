@@ -209,7 +209,7 @@ and settings behind it, [`reproduce/README.md`](reproduce/README.md) gives the c
 ## Tests
 
 ```bash
-pip install pytest
+pip install -e ".[reproduce]" pytest
 python -m pytest -q
 ```
 
